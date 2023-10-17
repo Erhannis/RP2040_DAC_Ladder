@@ -2729,23 +2729,23 @@
     (property "Value" "499" (at 157.988 67.31 0)
       (effects (font (size 1.016 1.016) bold) (justify left bottom))
     )
-    (property "Footprint" "Resistor_SMD:R_0402_1005Metric" (at 161.29 66.802 90)
+    (property "Footprint" "Resistor_SMD:R_0201_0603Metric"
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Datasheet" "~" (at 161.29 68.58 0)
+    (property "Datasheet" "~"
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "MFR" "0402WGF4990TCE" (at 161.29 68.58 0)
-      (effects (font (size 1.27 1.27)) hide)
+    (property "MFR" "RTT014990FTH"
+      (effects (font (size 1.524 1.524)) hide)
     )
-    (property "LCSC" "C4125" (at 161.29 68.58 0)
-      (effects (font (size 1.27 1.27)) hide)
+    (property "LCSC" "C166172"
+      (effects (font (size 1.524 1.524)) hide)
     )
-    (property "Description" "62.5mW Thick Film Resistors ±100ppm/℃ ±1% 499Ω 0402  Chip Resistor - Surface Mount ROHS" (at 161.29 68.58 0)
-      (effects (font (size 1.27 1.27)) hide)
+    (property "Description" "50mW Thick Film Resistors ±1% ±200ppm/℃ 499Ω 0201  Chip Resistor - Surface Mount ROHS"
+      (effects (font (size 1.524 1.524)) hide)
     )
-    (property "URL" "https://jlcpcb.com/partdetail/4532-0402WGF4990TCE/C4125" (at 161.29 68.58 0)
-      (effects (font (size 1.27 1.27)) hide)
+    (property "URL" "https://jlcpcb.com/partdetail/Ralec-RTT014990FTH/C166172"
+      (effects (font (size 1.524 1.524)) hide)
     )
     (pin "1" (uuid 36c6a2f2-59f2-4e69-9515-98359927fa94))
     (pin "2" (uuid 8b52870c-b702-4f62-a40d-6398ba81f868))
@@ -2777,23 +2777,23 @@
     (property "Value" "1k" (at 147.828 118.11 0)
       (effects (font (size 1.016 1.016) bold) (justify left bottom))
     )
-    (property "Footprint" "Resistor_SMD:R_0402_1005Metric" (at 151.13 117.602 90)
+    (property "Footprint" "Resistor_SMD:R_0201_0603Metric"
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Datasheet" "~" (at 151.13 119.38 0)
+    (property "Datasheet" "~"
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "MFR" "0402WGF1001TCE" (at 151.13 119.38 0)
-      (effects (font (size 1.27 1.27)) hide)
+    (property "MFR" "RC0201FR-071KL"
+      (effects (font (size 1.524 1.524)) hide)
     )
-    (property "LCSC" "C11702" (at 151.13 119.38 0)
-      (effects (font (size 1.27 1.27)) hide)
+    (property "LCSC" "C138165"
+      (effects (font (size 1.524 1.524)) hide)
     )
-    (property "Description" "62.5mW Thick Film Resistors ±100ppm/℃ ±1% 1kΩ 0402  Chip Resistor - Surface Mount ROHS" (at 151.13 119.38 0)
-      (effects (font (size 1.27 1.27)) hide)
+    (property "Description" "50mW Thick Film Resistors ±1% ±200ppm/℃ 1kΩ 0201  Chip Resistor - Surface Mount ROHS"
+      (effects (font (size 1.524 1.524)) hide)
     )
-    (property "URL" "https://jlcpcb.com/partdetail/12256-0402WGF1001TCE/C11702" (at 151.13 119.38 0)
-      (effects (font (size 1.27 1.27)) hide)
+    (property "URL" "https://jlcpcb.com/partdetail/Yageo-RC0201FR071KL/C138165"
+      (effects (font (size 1.524 1.524)) hide)
     )
     (pin "1" (uuid bfcc470c-17f1-4965-ad85-c405d8965acb))
     (pin "2" (uuid 1cca5802-d76a-4127-965f-ead0760d5653))
@@ -2880,23 +2880,23 @@
     (property "Value" "1k" (at 157.988 49.53 0)
       (effects (font (size 1.016 1.016) bold) (justify left bottom))
     )
-    (property "Footprint" "Resistor_SMD:R_0402_1005Metric" (at 161.29 49.022 90)
+    (property "Footprint" "Resistor_SMD:R_0201_0603Metric"
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Datasheet" "~" (at 161.29 50.8 0)
+    (property "Datasheet" "~"
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "MFR" "0402WGF1001TCE" (at 161.29 50.8 0)
-      (effects (font (size 1.27 1.27)) hide)
+    (property "MFR" "RC0201FR-071KL"
+      (effects (font (size 1.524 1.524)) hide)
     )
-    (property "LCSC" "C11702" (at 161.29 50.8 0)
-      (effects (font (size 1.27 1.27)) hide)
+    (property "LCSC" "C138165"
+      (effects (font (size 1.524 1.524)) hide)
     )
-    (property "Description" "62.5mW Thick Film Resistors ±100ppm/℃ ±1% 1kΩ 0402  Chip Resistor - Surface Mount ROHS" (at 161.29 50.8 0)
-      (effects (font (size 1.27 1.27)) hide)
+    (property "Description" "50mW Thick Film Resistors ±1% ±200ppm/℃ 1kΩ 0201  Chip Resistor - Surface Mount ROHS"
+      (effects (font (size 1.524 1.524)) hide)
     )
-    (property "URL" "https://jlcpcb.com/partdetail/12256-0402WGF1001TCE/C11702" (at 161.29 50.8 0)
-      (effects (font (size 1.27 1.27)) hide)
+    (property "URL" "https://jlcpcb.com/partdetail/Yageo-RC0201FR071KL/C138165"
+      (effects (font (size 1.524 1.524)) hide)
     )
     (pin "1" (uuid 47a00f25-d25b-4d71-ba4f-ff9d4f642b29))
     (pin "2" (uuid 90802246-56ab-4b1b-8d79-9294bf58863f))
@@ -2953,23 +2953,23 @@
     (property "Value" "499" (at 157.988 72.39 0)
       (effects (font (size 1.016 1.016) bold) (justify left bottom))
     )
-    (property "Footprint" "Resistor_SMD:R_0402_1005Metric" (at 161.29 71.882 90)
+    (property "Footprint" "Resistor_SMD:R_0201_0603Metric"
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Datasheet" "~" (at 161.29 73.66 0)
+    (property "Datasheet" "~"
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "MFR" "0402WGF4990TCE" (at 161.29 73.66 0)
-      (effects (font (size 1.27 1.27)) hide)
+    (property "MFR" "RTT014990FTH"
+      (effects (font (size 1.524 1.524)) hide)
     )
-    (property "LCSC" "C4125" (at 161.29 73.66 0)
-      (effects (font (size 1.27 1.27)) hide)
+    (property "LCSC" "C166172"
+      (effects (font (size 1.524 1.524)) hide)
     )
-    (property "Description" "62.5mW Thick Film Resistors ±100ppm/℃ ±1% 499Ω 0402  Chip Resistor - Surface Mount ROHS" (at 161.29 73.66 0)
-      (effects (font (size 1.27 1.27)) hide)
+    (property "Description" "50mW Thick Film Resistors ±1% ±200ppm/℃ 499Ω 0201  Chip Resistor - Surface Mount ROHS"
+      (effects (font (size 1.524 1.524)) hide)
     )
-    (property "URL" "https://jlcpcb.com/partdetail/4532-0402WGF4990TCE/C4125" (at 161.29 73.66 0)
-      (effects (font (size 1.27 1.27)) hide)
+    (property "URL" "https://jlcpcb.com/partdetail/Ralec-RTT014990FTH/C166172"
+      (effects (font (size 1.524 1.524)) hide)
     )
     (pin "1" (uuid 07d8915f-9868-472f-bcc9-4e88c62d6076))
     (pin "2" (uuid 005aed25-26f7-46b7-bcf7-2e41d491cae6))
@@ -3140,23 +3140,23 @@
     (property "Value" "499" (at 157.988 87.63 0)
       (effects (font (size 1.016 1.016) bold) (justify left bottom))
     )
-    (property "Footprint" "Resistor_SMD:R_0402_1005Metric" (at 161.29 87.122 90)
+    (property "Footprint" "Resistor_SMD:R_0201_0603Metric"
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Datasheet" "~" (at 161.29 88.9 0)
+    (property "Datasheet" "~"
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "MFR" "0402WGF4990TCE" (at 161.29 88.9 0)
-      (effects (font (size 1.27 1.27)) hide)
+    (property "MFR" "RTT014990FTH"
+      (effects (font (size 1.524 1.524)) hide)
     )
-    (property "LCSC" "C4125" (at 161.29 88.9 0)
-      (effects (font (size 1.27 1.27)) hide)
+    (property "LCSC" "C166172"
+      (effects (font (size 1.524 1.524)) hide)
     )
-    (property "Description" "62.5mW Thick Film Resistors ±100ppm/℃ ±1% 499Ω 0402  Chip Resistor - Surface Mount ROHS" (at 161.29 88.9 0)
-      (effects (font (size 1.27 1.27)) hide)
+    (property "Description" "50mW Thick Film Resistors ±1% ±200ppm/℃ 499Ω 0201  Chip Resistor - Surface Mount ROHS"
+      (effects (font (size 1.524 1.524)) hide)
     )
-    (property "URL" "https://jlcpcb.com/partdetail/4532-0402WGF4990TCE/C4125" (at 161.29 88.9 0)
-      (effects (font (size 1.27 1.27)) hide)
+    (property "URL" "https://jlcpcb.com/partdetail/Ralec-RTT014990FTH/C166172"
+      (effects (font (size 1.524 1.524)) hide)
     )
     (pin "1" (uuid a8f9abc0-f682-4341-9868-5d7a466db500))
     (pin "2" (uuid a8b5796a-54a4-473a-bbc4-44dc0c0fa5cf))
@@ -3225,23 +3225,23 @@
     (property "Value" "499" (at 157.988 115.57 0)
       (effects (font (size 1.016 1.016) bold) (justify left bottom))
     )
-    (property "Footprint" "Resistor_SMD:R_0402_1005Metric" (at 161.29 115.062 90)
+    (property "Footprint" "Resistor_SMD:R_0201_0603Metric"
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Datasheet" "~" (at 161.29 116.84 0)
+    (property "Datasheet" "~"
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "MFR" "0402WGF4990TCE" (at 161.29 116.84 0)
-      (effects (font (size 1.27 1.27)) hide)
+    (property "MFR" "RTT014990FTH"
+      (effects (font (size 1.524 1.524)) hide)
     )
-    (property "LCSC" "C4125" (at 161.29 116.84 0)
-      (effects (font (size 1.27 1.27)) hide)
+    (property "LCSC" "C166172"
+      (effects (font (size 1.524 1.524)) hide)
     )
-    (property "Description" "62.5mW Thick Film Resistors ±100ppm/℃ ±1% 499Ω 0402  Chip Resistor - Surface Mount ROHS" (at 161.29 116.84 0)
-      (effects (font (size 1.27 1.27)) hide)
+    (property "Description" "50mW Thick Film Resistors ±1% ±200ppm/℃ 499Ω 0201  Chip Resistor - Surface Mount ROHS"
+      (effects (font (size 1.524 1.524)) hide)
     )
-    (property "URL" "https://jlcpcb.com/partdetail/4532-0402WGF4990TCE/C4125" (at 161.29 116.84 0)
-      (effects (font (size 1.27 1.27)) hide)
+    (property "URL" "https://jlcpcb.com/partdetail/Ralec-RTT014990FTH/C166172"
+      (effects (font (size 1.524 1.524)) hide)
     )
     (pin "1" (uuid 47caa3f2-dcad-423f-8c52-111e7b75d911))
     (pin "2" (uuid 7d62f3b0-fe39-4f48-92b9-abfef75e3417))
@@ -3273,23 +3273,23 @@
     (property "Value" "1k" (at 147.828 74.93 0)
       (effects (font (size 1.016 1.016) bold) (justify left bottom))
     )
-    (property "Footprint" "Resistor_SMD:R_0402_1005Metric" (at 151.13 74.422 90)
+    (property "Footprint" "Resistor_SMD:R_0201_0603Metric"
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Datasheet" "~" (at 151.13 76.2 0)
+    (property "Datasheet" "~"
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "MFR" "0402WGF1001TCE" (at 151.13 76.2 0)
-      (effects (font (size 1.27 1.27)) hide)
+    (property "MFR" "RC0201FR-071KL"
+      (effects (font (size 1.524 1.524)) hide)
     )
-    (property "LCSC" "C11702" (at 151.13 76.2 0)
-      (effects (font (size 1.27 1.27)) hide)
+    (property "LCSC" "C138165"
+      (effects (font (size 1.524 1.524)) hide)
     )
-    (property "Description" "62.5mW Thick Film Resistors ±100ppm/℃ ±1% 1kΩ 0402  Chip Resistor - Surface Mount ROHS" (at 151.13 76.2 0)
-      (effects (font (size 1.27 1.27)) hide)
+    (property "Description" "50mW Thick Film Resistors ±1% ±200ppm/℃ 1kΩ 0201  Chip Resistor - Surface Mount ROHS"
+      (effects (font (size 1.524 1.524)) hide)
     )
-    (property "URL" "https://jlcpcb.com/partdetail/12256-0402WGF1001TCE/C11702" (at 151.13 76.2 0)
-      (effects (font (size 1.27 1.27)) hide)
+    (property "URL" "https://jlcpcb.com/partdetail/Yageo-RC0201FR071KL/C138165"
+      (effects (font (size 1.524 1.524)) hide)
     )
     (pin "1" (uuid 3f13d4dc-1c6f-4da3-8c7d-a7b9d86b1fbe))
     (pin "2" (uuid d92ba8c8-b282-4888-8ec9-facf7f02dbf1))
@@ -3321,23 +3321,23 @@
     (property "Value" "1k" (at 147.828 95.25 0)
       (effects (font (size 1.016 1.016) bold) (justify left bottom))
     )
-    (property "Footprint" "Resistor_SMD:R_0402_1005Metric" (at 151.13 94.742 90)
+    (property "Footprint" "Resistor_SMD:R_0201_0603Metric"
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Datasheet" "~" (at 151.13 96.52 0)
+    (property "Datasheet" "~"
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "MFR" "0402WGF1001TCE" (at 151.13 96.52 0)
-      (effects (font (size 1.27 1.27)) hide)
+    (property "MFR" "RC0201FR-071KL"
+      (effects (font (size 1.524 1.524)) hide)
     )
-    (property "LCSC" "C11702" (at 151.13 96.52 0)
-      (effects (font (size 1.27 1.27)) hide)
+    (property "LCSC" "C138165"
+      (effects (font (size 1.524 1.524)) hide)
     )
-    (property "Description" "62.5mW Thick Film Resistors ±100ppm/℃ ±1% 1kΩ 0402  Chip Resistor - Surface Mount ROHS" (at 151.13 96.52 0)
-      (effects (font (size 1.27 1.27)) hide)
+    (property "Description" "50mW Thick Film Resistors ±1% ±200ppm/℃ 1kΩ 0201  Chip Resistor - Surface Mount ROHS"
+      (effects (font (size 1.524 1.524)) hide)
     )
-    (property "URL" "https://jlcpcb.com/partdetail/12256-0402WGF1001TCE/C11702" (at 151.13 96.52 0)
-      (effects (font (size 1.27 1.27)) hide)
+    (property "URL" "https://jlcpcb.com/partdetail/Yageo-RC0201FR071KL/C138165"
+      (effects (font (size 1.524 1.524)) hide)
     )
     (pin "1" (uuid fb0cfaf1-7ba7-44b5-8ae6-9bdcef629a22))
     (pin "2" (uuid ea8bf4d4-acc3-469c-8cb9-d94114a91740))
@@ -3424,23 +3424,23 @@
     (property "Value" "499" (at 157.988 102.87 0)
       (effects (font (size 1.016 1.016) bold) (justify left bottom))
     )
-    (property "Footprint" "Resistor_SMD:R_0402_1005Metric" (at 161.29 102.362 90)
+    (property "Footprint" "Resistor_SMD:R_0201_0603Metric"
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Datasheet" "~" (at 161.29 104.14 0)
+    (property "Datasheet" "~"
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "MFR" "0402WGF4990TCE" (at 161.29 104.14 0)
-      (effects (font (size 1.27 1.27)) hide)
+    (property "MFR" "RTT014990FTH"
+      (effects (font (size 1.524 1.524)) hide)
     )
-    (property "LCSC" "C4125" (at 161.29 104.14 0)
-      (effects (font (size 1.27 1.27)) hide)
+    (property "LCSC" "C166172"
+      (effects (font (size 1.524 1.524)) hide)
     )
-    (property "Description" "62.5mW Thick Film Resistors ±100ppm/℃ ±1% 499Ω 0402  Chip Resistor - Surface Mount ROHS" (at 161.29 104.14 0)
-      (effects (font (size 1.27 1.27)) hide)
+    (property "Description" "50mW Thick Film Resistors ±1% ±200ppm/℃ 499Ω 0201  Chip Resistor - Surface Mount ROHS"
+      (effects (font (size 1.524 1.524)) hide)
     )
-    (property "URL" "https://jlcpcb.com/partdetail/4532-0402WGF4990TCE/C4125" (at 161.29 104.14 0)
-      (effects (font (size 1.27 1.27)) hide)
+    (property "URL" "https://jlcpcb.com/partdetail/Ralec-RTT014990FTH/C166172"
+      (effects (font (size 1.524 1.524)) hide)
     )
     (pin "1" (uuid f1a245fb-8a6d-46ef-b7c1-3dd9a739efb8))
     (pin "2" (uuid 1cb7fcf0-ef01-4879-937f-5a9b578c1a0d))
@@ -3472,23 +3472,23 @@
     (property "Value" "499" (at 157.988 69.85 0)
       (effects (font (size 1.016 1.016) bold) (justify left bottom))
     )
-    (property "Footprint" "Resistor_SMD:R_0402_1005Metric" (at 161.29 69.342 90)
+    (property "Footprint" "Resistor_SMD:R_0201_0603Metric"
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Datasheet" "~" (at 161.29 71.12 0)
+    (property "Datasheet" "~"
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "MFR" "0402WGF4990TCE" (at 161.29 71.12 0)
-      (effects (font (size 1.27 1.27)) hide)
+    (property "MFR" "RTT014990FTH"
+      (effects (font (size 1.524 1.524)) hide)
     )
-    (property "LCSC" "C4125" (at 161.29 71.12 0)
-      (effects (font (size 1.27 1.27)) hide)
+    (property "LCSC" "C166172"
+      (effects (font (size 1.524 1.524)) hide)
     )
-    (property "Description" "62.5mW Thick Film Resistors ±100ppm/℃ ±1% 499Ω 0402  Chip Resistor - Surface Mount ROHS" (at 161.29 71.12 0)
-      (effects (font (size 1.27 1.27)) hide)
+    (property "Description" "50mW Thick Film Resistors ±1% ±200ppm/℃ 499Ω 0201  Chip Resistor - Surface Mount ROHS"
+      (effects (font (size 1.524 1.524)) hide)
     )
-    (property "URL" "https://jlcpcb.com/partdetail/4532-0402WGF4990TCE/C4125" (at 161.29 71.12 0)
-      (effects (font (size 1.27 1.27)) hide)
+    (property "URL" "https://jlcpcb.com/partdetail/Ralec-RTT014990FTH/C166172"
+      (effects (font (size 1.524 1.524)) hide)
     )
     (pin "1" (uuid d79fbc50-5860-4044-a9cd-b0a428064099))
     (pin "2" (uuid e2cc894f-59bb-43ce-ab09-45d5a97e476a))
@@ -3575,23 +3575,23 @@
     (property "Value" "1k" (at 147.828 100.33 0)
       (effects (font (size 1.016 1.016) bold) (justify left bottom))
     )
-    (property "Footprint" "Resistor_SMD:R_0402_1005Metric" (at 151.13 99.822 90)
+    (property "Footprint" "Resistor_SMD:R_0201_0603Metric"
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Datasheet" "~" (at 151.13 101.6 0)
+    (property "Datasheet" "~"
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "MFR" "0402WGF1001TCE" (at 151.13 101.6 0)
-      (effects (font (size 1.27 1.27)) hide)
+    (property "MFR" "RC0201FR-071KL"
+      (effects (font (size 1.524 1.524)) hide)
     )
-    (property "LCSC" "C11702" (at 151.13 101.6 0)
-      (effects (font (size 1.27 1.27)) hide)
+    (property "LCSC" "C138165"
+      (effects (font (size 1.524 1.524)) hide)
     )
-    (property "Description" "62.5mW Thick Film Resistors ±100ppm/℃ ±1% 1kΩ 0402  Chip Resistor - Surface Mount ROHS" (at 151.13 101.6 0)
-      (effects (font (size 1.27 1.27)) hide)
+    (property "Description" "50mW Thick Film Resistors ±1% ±200ppm/℃ 1kΩ 0201  Chip Resistor - Surface Mount ROHS"
+      (effects (font (size 1.524 1.524)) hide)
     )
-    (property "URL" "https://jlcpcb.com/partdetail/12256-0402WGF1001TCE/C11702" (at 151.13 101.6 0)
-      (effects (font (size 1.27 1.27)) hide)
+    (property "URL" "https://jlcpcb.com/partdetail/Yageo-RC0201FR071KL/C138165"
+      (effects (font (size 1.524 1.524)) hide)
     )
     (pin "1" (uuid 107ad94b-a8f8-461c-83fd-05d752da8751))
     (pin "2" (uuid a0078495-fdcc-41f0-b6f0-25c9b36c3b69))
@@ -3660,23 +3660,23 @@
     (property "Value" "1k" (at 147.828 97.79 0)
       (effects (font (size 1.016 1.016) bold) (justify left bottom))
     )
-    (property "Footprint" "Resistor_SMD:R_0402_1005Metric" (at 151.13 97.282 90)
+    (property "Footprint" "Resistor_SMD:R_0201_0603Metric"
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Datasheet" "~" (at 151.13 99.06 0)
+    (property "Datasheet" "~"
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "MFR" "0402WGF1001TCE" (at 151.13 99.06 0)
-      (effects (font (size 1.27 1.27)) hide)
+    (property "MFR" "RC0201FR-071KL"
+      (effects (font (size 1.524 1.524)) hide)
     )
-    (property "LCSC" "C11702" (at 151.13 99.06 0)
-      (effects (font (size 1.27 1.27)) hide)
+    (property "LCSC" "C138165"
+      (effects (font (size 1.524 1.524)) hide)
     )
-    (property "Description" "62.5mW Thick Film Resistors ±100ppm/℃ ±1% 1kΩ 0402  Chip Resistor - Surface Mount ROHS" (at 151.13 99.06 0)
-      (effects (font (size 1.27 1.27)) hide)
+    (property "Description" "50mW Thick Film Resistors ±1% ±200ppm/℃ 1kΩ 0201  Chip Resistor - Surface Mount ROHS"
+      (effects (font (size 1.524 1.524)) hide)
     )
-    (property "URL" "https://jlcpcb.com/partdetail/12256-0402WGF1001TCE/C11702" (at 151.13 99.06 0)
-      (effects (font (size 1.27 1.27)) hide)
+    (property "URL" "https://jlcpcb.com/partdetail/Yageo-RC0201FR071KL/C138165"
+      (effects (font (size 1.524 1.524)) hide)
     )
     (pin "1" (uuid fd3ba6b7-bcd1-4551-b90d-f2611ee4b925))
     (pin "2" (uuid b50fb8a9-c57c-4716-98e5-6c19b9d88768))
@@ -3770,23 +3770,23 @@
     (property "Value" "499" (at 157.988 120.65 0)
       (effects (font (size 1.016 1.016) bold) (justify left bottom))
     )
-    (property "Footprint" "Resistor_SMD:R_0402_1005Metric" (at 161.29 120.142 90)
+    (property "Footprint" "Resistor_SMD:R_0201_0603Metric"
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Datasheet" "~" (at 161.29 121.92 0)
+    (property "Datasheet" "~"
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "MFR" "0402WGF4990TCE" (at 161.29 121.92 0)
-      (effects (font (size 1.27 1.27)) hide)
+    (property "MFR" "RTT014990FTH"
+      (effects (font (size 1.524 1.524)) hide)
     )
-    (property "LCSC" "C4125" (at 161.29 121.92 0)
-      (effects (font (size 1.27 1.27)) hide)
+    (property "LCSC" "C166172"
+      (effects (font (size 1.524 1.524)) hide)
     )
-    (property "Description" "62.5mW Thick Film Resistors ±100ppm/℃ ±1% 499Ω 0402  Chip Resistor - Surface Mount ROHS" (at 161.29 121.92 0)
-      (effects (font (size 1.27 1.27)) hide)
+    (property "Description" "50mW Thick Film Resistors ±1% ±200ppm/℃ 499Ω 0201  Chip Resistor - Surface Mount ROHS"
+      (effects (font (size 1.524 1.524)) hide)
     )
-    (property "URL" "https://jlcpcb.com/partdetail/4532-0402WGF4990TCE/C4125" (at 161.29 121.92 0)
-      (effects (font (size 1.27 1.27)) hide)
+    (property "URL" "https://jlcpcb.com/partdetail/Ralec-RTT014990FTH/C166172"
+      (effects (font (size 1.524 1.524)) hide)
     )
     (pin "1" (uuid 3683e1aa-ebb8-4c9b-88ca-9d5a2c32b543))
     (pin "2" (uuid 0bf3fb78-8a44-4de7-bbeb-7d819c4551c5))
@@ -3818,23 +3818,23 @@
     (property "Value" "1k" (at 147.828 72.39 0)
       (effects (font (size 1.016 1.016) bold) (justify left bottom))
     )
-    (property "Footprint" "Resistor_SMD:R_0402_1005Metric" (at 151.13 71.882 90)
+    (property "Footprint" "Resistor_SMD:R_0201_0603Metric"
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Datasheet" "~" (at 151.13 73.66 0)
+    (property "Datasheet" "~"
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "MFR" "0402WGF1001TCE" (at 151.13 73.66 0)
-      (effects (font (size 1.27 1.27)) hide)
+    (property "MFR" "RC0201FR-071KL"
+      (effects (font (size 1.524 1.524)) hide)
     )
-    (property "LCSC" "C11702" (at 151.13 73.66 0)
-      (effects (font (size 1.27 1.27)) hide)
+    (property "LCSC" "C138165"
+      (effects (font (size 1.524 1.524)) hide)
     )
-    (property "Description" "62.5mW Thick Film Resistors ±100ppm/℃ ±1% 1kΩ 0402  Chip Resistor - Surface Mount ROHS" (at 151.13 73.66 0)
-      (effects (font (size 1.27 1.27)) hide)
+    (property "Description" "50mW Thick Film Resistors ±1% ±200ppm/℃ 1kΩ 0201  Chip Resistor - Surface Mount ROHS"
+      (effects (font (size 1.524 1.524)) hide)
     )
-    (property "URL" "https://jlcpcb.com/partdetail/12256-0402WGF1001TCE/C11702" (at 151.13 73.66 0)
-      (effects (font (size 1.27 1.27)) hide)
+    (property "URL" "https://jlcpcb.com/partdetail/Yageo-RC0201FR071KL/C138165"
+      (effects (font (size 1.524 1.524)) hide)
     )
     (pin "1" (uuid 6907acd4-dca9-486a-8826-246a6ecf1533))
     (pin "2" (uuid cbd99eb6-46a5-49da-8106-cb94803e1aae))
@@ -3866,23 +3866,23 @@
     (property "Value" "499" (at 157.988 74.93 0)
       (effects (font (size 1.016 1.016) bold) (justify left bottom))
     )
-    (property "Footprint" "Resistor_SMD:R_0402_1005Metric" (at 161.29 74.422 90)
+    (property "Footprint" "Resistor_SMD:R_0201_0603Metric"
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Datasheet" "~" (at 161.29 76.2 0)
+    (property "Datasheet" "~"
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "MFR" "0402WGF4990TCE" (at 161.29 76.2 0)
-      (effects (font (size 1.27 1.27)) hide)
+    (property "MFR" "RTT014990FTH"
+      (effects (font (size 1.524 1.524)) hide)
     )
-    (property "LCSC" "C4125" (at 161.29 76.2 0)
-      (effects (font (size 1.27 1.27)) hide)
+    (property "LCSC" "C166172"
+      (effects (font (size 1.524 1.524)) hide)
     )
-    (property "Description" "62.5mW Thick Film Resistors ±100ppm/℃ ±1% 499Ω 0402  Chip Resistor - Surface Mount ROHS" (at 161.29 76.2 0)
-      (effects (font (size 1.27 1.27)) hide)
+    (property "Description" "50mW Thick Film Resistors ±1% ±200ppm/℃ 499Ω 0201  Chip Resistor - Surface Mount ROHS"
+      (effects (font (size 1.524 1.524)) hide)
     )
-    (property "URL" "https://jlcpcb.com/partdetail/4532-0402WGF4990TCE/C4125" (at 161.29 76.2 0)
-      (effects (font (size 1.27 1.27)) hide)
+    (property "URL" "https://jlcpcb.com/partdetail/Ralec-RTT014990FTH/C166172"
+      (effects (font (size 1.524 1.524)) hide)
     )
     (pin "1" (uuid d7e4ea77-9e0f-4b4c-9054-776d42615655))
     (pin "2" (uuid cbf80684-7b0f-4062-9cfc-6acf888bf70a))
@@ -3914,23 +3914,23 @@
     (property "Value" "1k" (at 168.148 87.63 0)
       (effects (font (size 1.016 1.016) bold) (justify left bottom))
     )
-    (property "Footprint" "Resistor_SMD:R_0402_1005Metric" (at 171.45 87.122 90)
+    (property "Footprint" "Resistor_SMD:R_0201_0603Metric"
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Datasheet" "~" (at 171.45 88.9 0)
+    (property "Datasheet" "~"
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "MFR" "0402WGF1001TCE" (at 171.45 88.9 0)
-      (effects (font (size 1.27 1.27)) hide)
+    (property "MFR" "RC0201FR-071KL"
+      (effects (font (size 1.524 1.524)) hide)
     )
-    (property "LCSC" "C11702" (at 171.45 88.9 0)
-      (effects (font (size 1.27 1.27)) hide)
+    (property "LCSC" "C138165"
+      (effects (font (size 1.524 1.524)) hide)
     )
-    (property "Description" "62.5mW Thick Film Resistors ±100ppm/℃ ±1% 1kΩ 0402  Chip Resistor - Surface Mount ROHS" (at 171.45 88.9 0)
-      (effects (font (size 1.27 1.27)) hide)
+    (property "Description" "50mW Thick Film Resistors ±1% ±200ppm/℃ 1kΩ 0201  Chip Resistor - Surface Mount ROHS"
+      (effects (font (size 1.524 1.524)) hide)
     )
-    (property "URL" "https://jlcpcb.com/partdetail/12256-0402WGF1001TCE/C11702" (at 171.45 88.9 0)
-      (effects (font (size 1.27 1.27)) hide)
+    (property "URL" "https://jlcpcb.com/partdetail/Yageo-RC0201FR071KL/C138165"
+      (effects (font (size 1.524 1.524)) hide)
     )
     (pin "1" (uuid 742a279b-2b5f-4ed6-92c5-beeaf3aaff97))
     (pin "2" (uuid cf93b8e3-55c4-4590-90d2-cc26e63dfc02))
@@ -3962,23 +3962,23 @@
     (property "Value" "499" (at 157.988 110.49 0)
       (effects (font (size 1.016 1.016) bold) (justify left bottom))
     )
-    (property "Footprint" "Resistor_SMD:R_0402_1005Metric" (at 161.29 109.982 90)
+    (property "Footprint" "Resistor_SMD:R_0201_0603Metric"
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Datasheet" "~" (at 161.29 111.76 0)
+    (property "Datasheet" "~"
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "MFR" "0402WGF4990TCE" (at 161.29 111.76 0)
-      (effects (font (size 1.27 1.27)) hide)
+    (property "MFR" "RTT014990FTH"
+      (effects (font (size 1.524 1.524)) hide)
     )
-    (property "LCSC" "C4125" (at 161.29 111.76 0)
-      (effects (font (size 1.27 1.27)) hide)
+    (property "LCSC" "C166172"
+      (effects (font (size 1.524 1.524)) hide)
     )
-    (property "Description" "62.5mW Thick Film Resistors ±100ppm/℃ ±1% 499Ω 0402  Chip Resistor - Surface Mount ROHS" (at 161.29 111.76 0)
-      (effects (font (size 1.27 1.27)) hide)
+    (property "Description" "50mW Thick Film Resistors ±1% ±200ppm/℃ 499Ω 0201  Chip Resistor - Surface Mount ROHS"
+      (effects (font (size 1.524 1.524)) hide)
     )
-    (property "URL" "https://jlcpcb.com/partdetail/4532-0402WGF4990TCE/C4125" (at 161.29 111.76 0)
-      (effects (font (size 1.27 1.27)) hide)
+    (property "URL" "https://jlcpcb.com/partdetail/Ralec-RTT014990FTH/C166172"
+      (effects (font (size 1.524 1.524)) hide)
     )
     (pin "1" (uuid 7b974f8f-65a8-4866-b2da-096e68e3f33a))
     (pin "2" (uuid 17f3618b-66cb-4706-a295-d7802ed113ea))
@@ -4169,23 +4169,23 @@
     (property "Value" "499" (at 157.988 77.47 0)
       (effects (font (size 1.016 1.016) bold) (justify left bottom))
     )
-    (property "Footprint" "Resistor_SMD:R_0402_1005Metric" (at 161.29 76.962 90)
+    (property "Footprint" "Resistor_SMD:R_0201_0603Metric"
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Datasheet" "~" (at 161.29 78.74 0)
+    (property "Datasheet" "~"
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "MFR" "0402WGF4990TCE" (at 161.29 78.74 0)
-      (effects (font (size 1.27 1.27)) hide)
+    (property "MFR" "RTT014990FTH"
+      (effects (font (size 1.524 1.524)) hide)
     )
-    (property "LCSC" "C4125" (at 161.29 78.74 0)
-      (effects (font (size 1.27 1.27)) hide)
+    (property "LCSC" "C166172"
+      (effects (font (size 1.524 1.524)) hide)
     )
-    (property "Description" "62.5mW Thick Film Resistors ±100ppm/℃ ±1% 499Ω 0402  Chip Resistor - Surface Mount ROHS" (at 161.29 78.74 0)
-      (effects (font (size 1.27 1.27)) hide)
+    (property "Description" "50mW Thick Film Resistors ±1% ±200ppm/℃ 499Ω 0201  Chip Resistor - Surface Mount ROHS"
+      (effects (font (size 1.524 1.524)) hide)
     )
-    (property "URL" "https://jlcpcb.com/partdetail/4532-0402WGF4990TCE/C4125" (at 161.29 78.74 0)
-      (effects (font (size 1.27 1.27)) hide)
+    (property "URL" "https://jlcpcb.com/partdetail/Ralec-RTT014990FTH/C166172"
+      (effects (font (size 1.524 1.524)) hide)
     )
     (pin "1" (uuid 15d5e58b-d044-4172-b628-4963ffa46e19))
     (pin "2" (uuid 18b703c2-5ee3-45e9-a51d-c355aa3fd633))
@@ -4350,23 +4350,23 @@
     (property "Value" "499" (at 157.988 100.33 0)
       (effects (font (size 1.016 1.016) bold) (justify left bottom))
     )
-    (property "Footprint" "Resistor_SMD:R_0402_1005Metric" (at 161.29 99.822 90)
+    (property "Footprint" "Resistor_SMD:R_0201_0603Metric"
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Datasheet" "~" (at 161.29 101.6 0)
+    (property "Datasheet" "~"
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "MFR" "0402WGF4990TCE" (at 161.29 101.6 0)
-      (effects (font (size 1.27 1.27)) hide)
+    (property "MFR" "RTT014990FTH"
+      (effects (font (size 1.524 1.524)) hide)
     )
-    (property "LCSC" "C4125" (at 161.29 101.6 0)
-      (effects (font (size 1.27 1.27)) hide)
+    (property "LCSC" "C166172"
+      (effects (font (size 1.524 1.524)) hide)
     )
-    (property "Description" "62.5mW Thick Film Resistors ±100ppm/℃ ±1% 499Ω 0402  Chip Resistor - Surface Mount ROHS" (at 161.29 101.6 0)
-      (effects (font (size 1.27 1.27)) hide)
+    (property "Description" "50mW Thick Film Resistors ±1% ±200ppm/℃ 499Ω 0201  Chip Resistor - Surface Mount ROHS"
+      (effects (font (size 1.524 1.524)) hide)
     )
-    (property "URL" "https://jlcpcb.com/partdetail/4532-0402WGF4990TCE/C4125" (at 161.29 101.6 0)
-      (effects (font (size 1.27 1.27)) hide)
+    (property "URL" "https://jlcpcb.com/partdetail/Ralec-RTT014990FTH/C166172"
+      (effects (font (size 1.524 1.524)) hide)
     )
     (pin "1" (uuid 3ec14c6a-a951-40a4-a181-92fdb97b19ee))
     (pin "2" (uuid dcd80b0b-7722-4a16-bf08-839371fcd071))
@@ -4444,23 +4444,23 @@
     (property "Value" "1k" (at 147.828 62.23 0)
       (effects (font (size 1.016 1.016) bold) (justify left bottom))
     )
-    (property "Footprint" "Resistor_SMD:R_0402_1005Metric" (at 151.13 61.722 90)
+    (property "Footprint" "Resistor_SMD:R_0201_0603Metric"
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Datasheet" "~" (at 151.13 63.5 0)
+    (property "Datasheet" "~"
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "MFR" "0402WGF1001TCE" (at 151.13 63.5 0)
-      (effects (font (size 1.27 1.27)) hide)
+    (property "MFR" "RC0201FR-071KL"
+      (effects (font (size 1.524 1.524)) hide)
     )
-    (property "LCSC" "C11702" (at 151.13 63.5 0)
-      (effects (font (size 1.27 1.27)) hide)
+    (property "LCSC" "C138165"
+      (effects (font (size 1.524 1.524)) hide)
     )
-    (property "Description" "62.5mW Thick Film Resistors ±100ppm/℃ ±1% 1kΩ 0402  Chip Resistor - Surface Mount ROHS" (at 151.13 63.5 0)
-      (effects (font (size 1.27 1.27)) hide)
+    (property "Description" "50mW Thick Film Resistors ±1% ±200ppm/℃ 1kΩ 0201  Chip Resistor - Surface Mount ROHS"
+      (effects (font (size 1.524 1.524)) hide)
     )
-    (property "URL" "https://jlcpcb.com/partdetail/12256-0402WGF1001TCE/C11702" (at 151.13 63.5 0)
-      (effects (font (size 1.27 1.27)) hide)
+    (property "URL" "https://jlcpcb.com/partdetail/Yageo-RC0201FR071KL/C138165"
+      (effects (font (size 1.524 1.524)) hide)
     )
     (pin "1" (uuid d4e9b5f1-92d8-4cf9-a68a-c41062ca3d22))
     (pin "2" (uuid 24c2f5ba-c2ff-4b63-9e59-494f749dcc4c))
@@ -4492,23 +4492,23 @@
     (property "Value" "499" (at 157.988 92.71 0)
       (effects (font (size 1.016 1.016) bold) (justify left bottom))
     )
-    (property "Footprint" "Resistor_SMD:R_0402_1005Metric" (at 161.29 92.202 90)
+    (property "Footprint" "Resistor_SMD:R_0201_0603Metric"
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Datasheet" "~" (at 161.29 93.98 0)
+    (property "Datasheet" "~"
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "MFR" "0402WGF4990TCE" (at 161.29 93.98 0)
-      (effects (font (size 1.27 1.27)) hide)
+    (property "MFR" "RTT014990FTH"
+      (effects (font (size 1.524 1.524)) hide)
     )
-    (property "LCSC" "C4125" (at 161.29 93.98 0)
-      (effects (font (size 1.27 1.27)) hide)
+    (property "LCSC" "C166172"
+      (effects (font (size 1.524 1.524)) hide)
     )
-    (property "Description" "62.5mW Thick Film Resistors ±100ppm/℃ ±1% 499Ω 0402  Chip Resistor - Surface Mount ROHS" (at 161.29 93.98 0)
-      (effects (font (size 1.27 1.27)) hide)
+    (property "Description" "50mW Thick Film Resistors ±1% ±200ppm/℃ 499Ω 0201  Chip Resistor - Surface Mount ROHS"
+      (effects (font (size 1.524 1.524)) hide)
     )
-    (property "URL" "https://jlcpcb.com/partdetail/4532-0402WGF4990TCE/C4125" (at 161.29 93.98 0)
-      (effects (font (size 1.27 1.27)) hide)
+    (property "URL" "https://jlcpcb.com/partdetail/Ralec-RTT014990FTH/C166172"
+      (effects (font (size 1.524 1.524)) hide)
     )
     (pin "1" (uuid 6d4a88de-4acc-4e7d-8d46-3aedd96f11c5))
     (pin "2" (uuid b6bb941c-268c-4df6-81d4-1d68e91ef86f))
@@ -4540,23 +4540,23 @@
     (property "Value" "1k" (at 147.828 85.09 0)
       (effects (font (size 1.016 1.016) bold) (justify left bottom))
     )
-    (property "Footprint" "Resistor_SMD:R_0402_1005Metric" (at 151.13 84.582 90)
+    (property "Footprint" "Resistor_SMD:R_0201_0603Metric"
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Datasheet" "~" (at 151.13 86.36 0)
+    (property "Datasheet" "~"
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "MFR" "0402WGF1001TCE" (at 151.13 86.36 0)
-      (effects (font (size 1.27 1.27)) hide)
+    (property "MFR" "RC0201FR-071KL"
+      (effects (font (size 1.524 1.524)) hide)
     )
-    (property "LCSC" "C11702" (at 151.13 86.36 0)
-      (effects (font (size 1.27 1.27)) hide)
+    (property "LCSC" "C138165"
+      (effects (font (size 1.524 1.524)) hide)
     )
-    (property "Description" "62.5mW Thick Film Resistors ±100ppm/℃ ±1% 1kΩ 0402  Chip Resistor - Surface Mount ROHS" (at 151.13 86.36 0)
-      (effects (font (size 1.27 1.27)) hide)
+    (property "Description" "50mW Thick Film Resistors ±1% ±200ppm/℃ 1kΩ 0201  Chip Resistor - Surface Mount ROHS"
+      (effects (font (size 1.524 1.524)) hide)
     )
-    (property "URL" "https://jlcpcb.com/partdetail/12256-0402WGF1001TCE/C11702" (at 151.13 86.36 0)
-      (effects (font (size 1.27 1.27)) hide)
+    (property "URL" "https://jlcpcb.com/partdetail/Yageo-RC0201FR071KL/C138165"
+      (effects (font (size 1.524 1.524)) hide)
     )
     (pin "1" (uuid 78301c1e-1acd-4b81-9227-40f0c9067794))
     (pin "2" (uuid d36c42f5-fed5-4ad4-9422-cd032546db11))
@@ -4588,23 +4588,23 @@
     (property "Value" "499" (at 157.988 107.95 0)
       (effects (font (size 1.016 1.016) bold) (justify left bottom))
     )
-    (property "Footprint" "Resistor_SMD:R_0402_1005Metric" (at 161.29 107.442 90)
+    (property "Footprint" "Resistor_SMD:R_0201_0603Metric"
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Datasheet" "~" (at 161.29 109.22 0)
+    (property "Datasheet" "~"
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "MFR" "0402WGF4990TCE" (at 161.29 109.22 0)
-      (effects (font (size 1.27 1.27)) hide)
+    (property "MFR" "RTT014990FTH"
+      (effects (font (size 1.524 1.524)) hide)
     )
-    (property "LCSC" "C4125" (at 161.29 109.22 0)
-      (effects (font (size 1.27 1.27)) hide)
+    (property "LCSC" "C166172"
+      (effects (font (size 1.524 1.524)) hide)
     )
-    (property "Description" "62.5mW Thick Film Resistors ±100ppm/℃ ±1% 499Ω 0402  Chip Resistor - Surface Mount ROHS" (at 161.29 109.22 0)
-      (effects (font (size 1.27 1.27)) hide)
+    (property "Description" "50mW Thick Film Resistors ±1% ±200ppm/℃ 499Ω 0201  Chip Resistor - Surface Mount ROHS"
+      (effects (font (size 1.524 1.524)) hide)
     )
-    (property "URL" "https://jlcpcb.com/partdetail/4532-0402WGF4990TCE/C4125" (at 161.29 109.22 0)
-      (effects (font (size 1.27 1.27)) hide)
+    (property "URL" "https://jlcpcb.com/partdetail/Ralec-RTT014990FTH/C166172"
+      (effects (font (size 1.524 1.524)) hide)
     )
     (pin "1" (uuid dff394de-6142-4077-8d05-c66372b29265))
     (pin "2" (uuid 83efb14f-83c4-498f-b3eb-87158120624e))
@@ -4636,23 +4636,23 @@
     (property "Value" "1k" (at 147.828 123.19 0)
       (effects (font (size 1.016 1.016) bold) (justify left bottom))
     )
-    (property "Footprint" "Resistor_SMD:R_0402_1005Metric" (at 151.13 122.682 90)
+    (property "Footprint" "Resistor_SMD:R_0201_0603Metric"
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Datasheet" "~" (at 151.13 124.46 0)
+    (property "Datasheet" "~"
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "MFR" "0402WGF1001TCE" (at 151.13 124.46 0)
-      (effects (font (size 1.27 1.27)) hide)
+    (property "MFR" "RC0201FR-071KL"
+      (effects (font (size 1.524 1.524)) hide)
     )
-    (property "LCSC" "C11702" (at 151.13 124.46 0)
-      (effects (font (size 1.27 1.27)) hide)
+    (property "LCSC" "C138165"
+      (effects (font (size 1.524 1.524)) hide)
     )
-    (property "Description" "62.5mW Thick Film Resistors ±100ppm/℃ ±1% 1kΩ 0402  Chip Resistor - Surface Mount ROHS" (at 151.13 124.46 0)
-      (effects (font (size 1.27 1.27)) hide)
+    (property "Description" "50mW Thick Film Resistors ±1% ±200ppm/℃ 1kΩ 0201  Chip Resistor - Surface Mount ROHS"
+      (effects (font (size 1.524 1.524)) hide)
     )
-    (property "URL" "https://jlcpcb.com/partdetail/12256-0402WGF1001TCE/C11702" (at 151.13 124.46 0)
-      (effects (font (size 1.27 1.27)) hide)
+    (property "URL" "https://jlcpcb.com/partdetail/Yageo-RC0201FR071KL/C138165"
+      (effects (font (size 1.524 1.524)) hide)
     )
     (pin "1" (uuid c859d90a-7e17-4cb0-b5fa-6f95bffe432d))
     (pin "2" (uuid d2975ff0-9708-43d7-983c-e7235256688e))
@@ -4757,23 +4757,23 @@
     (property "Value" "1k" (at 147.828 82.55 0)
       (effects (font (size 1.016 1.016) bold) (justify left bottom))
     )
-    (property "Footprint" "Resistor_SMD:R_0402_1005Metric" (at 151.13 82.042 90)
+    (property "Footprint" "Resistor_SMD:R_0201_0603Metric"
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Datasheet" "~" (at 151.13 83.82 0)
+    (property "Datasheet" "~"
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "MFR" "0402WGF1001TCE" (at 151.13 83.82 0)
-      (effects (font (size 1.27 1.27)) hide)
+    (property "MFR" "RC0201FR-071KL"
+      (effects (font (size 1.524 1.524)) hide)
     )
-    (property "LCSC" "C11702" (at 151.13 83.82 0)
-      (effects (font (size 1.27 1.27)) hide)
+    (property "LCSC" "C138165"
+      (effects (font (size 1.524 1.524)) hide)
     )
-    (property "Description" "62.5mW Thick Film Resistors ±100ppm/℃ ±1% 1kΩ 0402  Chip Resistor - Surface Mount ROHS" (at 151.13 83.82 0)
-      (effects (font (size 1.27 1.27)) hide)
+    (property "Description" "50mW Thick Film Resistors ±1% ±200ppm/℃ 1kΩ 0201  Chip Resistor - Surface Mount ROHS"
+      (effects (font (size 1.524 1.524)) hide)
     )
-    (property "URL" "https://jlcpcb.com/partdetail/12256-0402WGF1001TCE/C11702" (at 151.13 83.82 0)
-      (effects (font (size 1.27 1.27)) hide)
+    (property "URL" "https://jlcpcb.com/partdetail/Yageo-RC0201FR071KL/C138165"
+      (effects (font (size 1.524 1.524)) hide)
     )
     (pin "1" (uuid 9e4ad7fd-e87a-4489-8941-0c629788337a))
     (pin "2" (uuid b6de0389-5f49-4325-9bca-508477ec0b33))
@@ -4865,23 +4865,23 @@
     (property "Value" "1k" (at 147.828 69.85 0)
       (effects (font (size 1.016 1.016) bold) (justify left bottom))
     )
-    (property "Footprint" "Resistor_SMD:R_0402_1005Metric" (at 151.13 69.342 90)
+    (property "Footprint" "Resistor_SMD:R_0201_0603Metric"
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Datasheet" "~" (at 151.13 71.12 0)
+    (property "Datasheet" "~"
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "MFR" "0402WGF1001TCE" (at 151.13 71.12 0)
-      (effects (font (size 1.27 1.27)) hide)
+    (property "MFR" "RC0201FR-071KL"
+      (effects (font (size 1.524 1.524)) hide)
     )
-    (property "LCSC" "C11702" (at 151.13 71.12 0)
-      (effects (font (size 1.27 1.27)) hide)
+    (property "LCSC" "C138165"
+      (effects (font (size 1.524 1.524)) hide)
     )
-    (property "Description" "62.5mW Thick Film Resistors ±100ppm/℃ ±1% 1kΩ 0402  Chip Resistor - Surface Mount ROHS" (at 151.13 71.12 0)
-      (effects (font (size 1.27 1.27)) hide)
+    (property "Description" "50mW Thick Film Resistors ±1% ±200ppm/℃ 1kΩ 0201  Chip Resistor - Surface Mount ROHS"
+      (effects (font (size 1.524 1.524)) hide)
     )
-    (property "URL" "https://jlcpcb.com/partdetail/12256-0402WGF1001TCE/C11702" (at 151.13 71.12 0)
-      (effects (font (size 1.27 1.27)) hide)
+    (property "URL" "https://jlcpcb.com/partdetail/Yageo-RC0201FR071KL/C138165"
+      (effects (font (size 1.524 1.524)) hide)
     )
     (pin "1" (uuid 4888e62f-8c53-4bf5-aed0-4670be0e0696))
     (pin "2" (uuid 048727b2-c86b-43de-ab0a-7a57bc0e4df9))
@@ -4938,23 +4938,23 @@
     (property "Value" "499" (at 157.988 90.17 0)
       (effects (font (size 1.016 1.016) bold) (justify left bottom))
     )
-    (property "Footprint" "Resistor_SMD:R_0402_1005Metric" (at 161.29 89.662 90)
+    (property "Footprint" "Resistor_SMD:R_0201_0603Metric"
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Datasheet" "~" (at 161.29 91.44 0)
+    (property "Datasheet" "~"
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "MFR" "0402WGF4990TCE" (at 161.29 91.44 0)
-      (effects (font (size 1.27 1.27)) hide)
+    (property "MFR" "RTT014990FTH"
+      (effects (font (size 1.524 1.524)) hide)
     )
-    (property "LCSC" "C4125" (at 161.29 91.44 0)
-      (effects (font (size 1.27 1.27)) hide)
+    (property "LCSC" "C166172"
+      (effects (font (size 1.524 1.524)) hide)
     )
-    (property "Description" "62.5mW Thick Film Resistors ±100ppm/℃ ±1% 499Ω 0402  Chip Resistor - Surface Mount ROHS" (at 161.29 91.44 0)
-      (effects (font (size 1.27 1.27)) hide)
+    (property "Description" "50mW Thick Film Resistors ±1% ±200ppm/℃ 499Ω 0201  Chip Resistor - Surface Mount ROHS"
+      (effects (font (size 1.524 1.524)) hide)
     )
-    (property "URL" "https://jlcpcb.com/partdetail/4532-0402WGF4990TCE/C4125" (at 161.29 91.44 0)
-      (effects (font (size 1.27 1.27)) hide)
+    (property "URL" "https://jlcpcb.com/partdetail/Ralec-RTT014990FTH/C166172"
+      (effects (font (size 1.524 1.524)) hide)
     )
     (pin "1" (uuid 50ada5c8-cfbc-458f-bb08-2b6063bb629f))
     (pin "2" (uuid 5c83a5f8-744f-48f4-ad89-f35ce91cadc3))
@@ -5036,23 +5036,23 @@
     (property "Value" "1k" (at 147.828 90.17 0)
       (effects (font (size 1.016 1.016) bold) (justify left bottom))
     )
-    (property "Footprint" "Resistor_SMD:R_0402_1005Metric" (at 151.13 89.662 90)
+    (property "Footprint" "Resistor_SMD:R_0201_0603Metric"
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Datasheet" "~" (at 151.13 91.44 0)
+    (property "Datasheet" "~"
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "MFR" "0402WGF1001TCE" (at 151.13 91.44 0)
-      (effects (font (size 1.27 1.27)) hide)
+    (property "MFR" "RC0201FR-071KL"
+      (effects (font (size 1.524 1.524)) hide)
     )
-    (property "LCSC" "C11702" (at 151.13 91.44 0)
-      (effects (font (size 1.27 1.27)) hide)
+    (property "LCSC" "C138165"
+      (effects (font (size 1.524 1.524)) hide)
     )
-    (property "Description" "62.5mW Thick Film Resistors ±100ppm/℃ ±1% 1kΩ 0402  Chip Resistor - Surface Mount ROHS" (at 151.13 91.44 0)
-      (effects (font (size 1.27 1.27)) hide)
+    (property "Description" "50mW Thick Film Resistors ±1% ±200ppm/℃ 1kΩ 0201  Chip Resistor - Surface Mount ROHS"
+      (effects (font (size 1.524 1.524)) hide)
     )
-    (property "URL" "https://jlcpcb.com/partdetail/12256-0402WGF1001TCE/C11702" (at 151.13 91.44 0)
-      (effects (font (size 1.27 1.27)) hide)
+    (property "URL" "https://jlcpcb.com/partdetail/Yageo-RC0201FR071KL/C138165"
+      (effects (font (size 1.524 1.524)) hide)
     )
     (pin "1" (uuid e30a8626-e072-44f8-a33a-294ad6b61a6a))
     (pin "2" (uuid 1c3c53f0-9d10-4968-85a8-e2664df7750d))
@@ -5183,23 +5183,23 @@
     (property "Value" "1k" (at 147.828 115.57 0)
       (effects (font (size 1.016 1.016) bold) (justify left bottom))
     )
-    (property "Footprint" "Resistor_SMD:R_0402_1005Metric" (at 151.13 115.062 90)
+    (property "Footprint" "Resistor_SMD:R_0201_0603Metric"
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Datasheet" "~" (at 151.13 116.84 0)
+    (property "Datasheet" "~"
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "MFR" "0402WGF1001TCE" (at 151.13 116.84 0)
-      (effects (font (size 1.27 1.27)) hide)
+    (property "MFR" "RC0201FR-071KL"
+      (effects (font (size 1.524 1.524)) hide)
     )
-    (property "LCSC" "C11702" (at 151.13 116.84 0)
-      (effects (font (size 1.27 1.27)) hide)
+    (property "LCSC" "C138165"
+      (effects (font (size 1.524 1.524)) hide)
     )
-    (property "Description" "62.5mW Thick Film Resistors ±100ppm/℃ ±1% 1kΩ 0402  Chip Resistor - Surface Mount ROHS" (at 151.13 116.84 0)
-      (effects (font (size 1.27 1.27)) hide)
+    (property "Description" "50mW Thick Film Resistors ±1% ±200ppm/℃ 1kΩ 0201  Chip Resistor - Surface Mount ROHS"
+      (effects (font (size 1.524 1.524)) hide)
     )
-    (property "URL" "https://jlcpcb.com/partdetail/12256-0402WGF1001TCE/C11702" (at 151.13 116.84 0)
-      (effects (font (size 1.27 1.27)) hide)
+    (property "URL" "https://jlcpcb.com/partdetail/Yageo-RC0201FR071KL/C138165"
+      (effects (font (size 1.524 1.524)) hide)
     )
     (pin "1" (uuid 1fde80f4-7ff2-4949-b6ff-c1ad9ff45e79))
     (pin "2" (uuid a0b8d8db-d432-47ff-8eed-259abc5615df))
@@ -5358,23 +5358,23 @@
     (property "Value" "1k" (at 147.828 92.71 0)
       (effects (font (size 1.016 1.016) bold) (justify left bottom))
     )
-    (property "Footprint" "Resistor_SMD:R_0402_1005Metric" (at 151.13 92.202 90)
+    (property "Footprint" "Resistor_SMD:R_0201_0603Metric"
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Datasheet" "~" (at 151.13 93.98 0)
+    (property "Datasheet" "~"
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "MFR" "0402WGF1001TCE" (at 151.13 93.98 0)
-      (effects (font (size 1.27 1.27)) hide)
+    (property "MFR" "RC0201FR-071KL"
+      (effects (font (size 1.524 1.524)) hide)
     )
-    (property "LCSC" "C11702" (at 151.13 93.98 0)
-      (effects (font (size 1.27 1.27)) hide)
+    (property "LCSC" "C138165"
+      (effects (font (size 1.524 1.524)) hide)
     )
-    (property "Description" "62.5mW Thick Film Resistors ±100ppm/℃ ±1% 1kΩ 0402  Chip Resistor - Surface Mount ROHS" (at 151.13 93.98 0)
-      (effects (font (size 1.27 1.27)) hide)
+    (property "Description" "50mW Thick Film Resistors ±1% ±200ppm/℃ 1kΩ 0201  Chip Resistor - Surface Mount ROHS"
+      (effects (font (size 1.524 1.524)) hide)
     )
-    (property "URL" "https://jlcpcb.com/partdetail/12256-0402WGF1001TCE/C11702" (at 151.13 93.98 0)
-      (effects (font (size 1.27 1.27)) hide)
+    (property "URL" "https://jlcpcb.com/partdetail/Yageo-RC0201FR071KL/C138165"
+      (effects (font (size 1.524 1.524)) hide)
     )
     (pin "1" (uuid 2eeebdf5-9a80-4344-8b55-747911df7bb6))
     (pin "2" (uuid 27d7fa53-99fd-4384-a27c-4e3928f54730))
@@ -5406,23 +5406,23 @@
     (property "Value" "1k" (at 147.828 52.07 0)
       (effects (font (size 1.016 1.016) bold) (justify left bottom))
     )
-    (property "Footprint" "Resistor_SMD:R_0402_1005Metric" (at 151.13 51.562 90)
+    (property "Footprint" "Resistor_SMD:R_0201_0603Metric"
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Datasheet" "~" (at 151.13 53.34 0)
+    (property "Datasheet" "~"
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "MFR" "0402WGF1001TCE" (at 151.13 53.34 0)
-      (effects (font (size 1.27 1.27)) hide)
+    (property "MFR" "RC0201FR-071KL"
+      (effects (font (size 1.524 1.524)) hide)
     )
-    (property "LCSC" "C11702" (at 151.13 53.34 0)
-      (effects (font (size 1.27 1.27)) hide)
+    (property "LCSC" "C138165"
+      (effects (font (size 1.524 1.524)) hide)
     )
-    (property "Description" "62.5mW Thick Film Resistors ±100ppm/℃ ±1% 1kΩ 0402  Chip Resistor - Surface Mount ROHS" (at 151.13 53.34 0)
-      (effects (font (size 1.27 1.27)) hide)
+    (property "Description" "50mW Thick Film Resistors ±1% ±200ppm/℃ 1kΩ 0201  Chip Resistor - Surface Mount ROHS"
+      (effects (font (size 1.524 1.524)) hide)
     )
-    (property "URL" "https://jlcpcb.com/partdetail/12256-0402WGF1001TCE/C11702" (at 151.13 53.34 0)
-      (effects (font (size 1.27 1.27)) hide)
+    (property "URL" "https://jlcpcb.com/partdetail/Yageo-RC0201FR071KL/C138165"
+      (effects (font (size 1.524 1.524)) hide)
     )
     (pin "1" (uuid 01b8da77-171b-4c12-b8c4-8d9dbb09813a))
     (pin "2" (uuid 9b93cf75-7e28-40e9-b6e8-6cd9fcb5b8cd))
@@ -5484,23 +5484,23 @@
     (property "Value" "499" (at 157.988 105.41 0)
       (effects (font (size 1.016 1.016) bold) (justify left bottom))
     )
-    (property "Footprint" "Resistor_SMD:R_0402_1005Metric" (at 161.29 104.902 90)
+    (property "Footprint" "Resistor_SMD:R_0201_0603Metric"
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Datasheet" "~" (at 161.29 106.68 0)
+    (property "Datasheet" "~"
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "MFR" "0402WGF4990TCE" (at 161.29 106.68 0)
-      (effects (font (size 1.27 1.27)) hide)
+    (property "MFR" "RTT014990FTH"
+      (effects (font (size 1.524 1.524)) hide)
     )
-    (property "LCSC" "C4125" (at 161.29 106.68 0)
-      (effects (font (size 1.27 1.27)) hide)
+    (property "LCSC" "C166172"
+      (effects (font (size 1.524 1.524)) hide)
     )
-    (property "Description" "62.5mW Thick Film Resistors ±100ppm/℃ ±1% 499Ω 0402  Chip Resistor - Surface Mount ROHS" (at 161.29 106.68 0)
-      (effects (font (size 1.27 1.27)) hide)
+    (property "Description" "50mW Thick Film Resistors ±1% ±200ppm/℃ 499Ω 0201  Chip Resistor - Surface Mount ROHS"
+      (effects (font (size 1.524 1.524)) hide)
     )
-    (property "URL" "https://jlcpcb.com/partdetail/4532-0402WGF4990TCE/C4125" (at 161.29 106.68 0)
-      (effects (font (size 1.27 1.27)) hide)
+    (property "URL" "https://jlcpcb.com/partdetail/Ralec-RTT014990FTH/C166172"
+      (effects (font (size 1.524 1.524)) hide)
     )
     (pin "1" (uuid a5af2ee6-4f3b-43f1-82c0-5c5d865f3a6f))
     (pin "2" (uuid b5399800-d2f4-43cb-949d-6e2cc7ded999))
@@ -5666,23 +5666,23 @@
     (property "Value" "1k" (at 147.828 59.69 0)
       (effects (font (size 1.016 1.016) bold) (justify left bottom))
     )
-    (property "Footprint" "Resistor_SMD:R_0402_1005Metric" (at 151.13 59.182 90)
+    (property "Footprint" "Resistor_SMD:R_0201_0603Metric"
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Datasheet" "~" (at 151.13 60.96 0)
+    (property "Datasheet" "~"
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "MFR" "0402WGF1001TCE" (at 151.13 60.96 0)
-      (effects (font (size 1.27 1.27)) hide)
+    (property "MFR" "RC0201FR-071KL"
+      (effects (font (size 1.524 1.524)) hide)
     )
-    (property "LCSC" "C11702" (at 151.13 60.96 0)
-      (effects (font (size 1.27 1.27)) hide)
+    (property "LCSC" "C138165"
+      (effects (font (size 1.524 1.524)) hide)
     )
-    (property "Description" "62.5mW Thick Film Resistors ±100ppm/℃ ±1% 1kΩ 0402  Chip Resistor - Surface Mount ROHS" (at 151.13 60.96 0)
-      (effects (font (size 1.27 1.27)) hide)
+    (property "Description" "50mW Thick Film Resistors ±1% ±200ppm/℃ 1kΩ 0201  Chip Resistor - Surface Mount ROHS"
+      (effects (font (size 1.524 1.524)) hide)
     )
-    (property "URL" "https://jlcpcb.com/partdetail/12256-0402WGF1001TCE/C11702" (at 151.13 60.96 0)
-      (effects (font (size 1.27 1.27)) hide)
+    (property "URL" "https://jlcpcb.com/partdetail/Yageo-RC0201FR071KL/C138165"
+      (effects (font (size 1.524 1.524)) hide)
     )
     (pin "1" (uuid 0607c843-1367-440e-bc92-32711c1041a0))
     (pin "2" (uuid 727872d1-a385-49ac-b7f9-69eae87f0bb1))
@@ -5714,23 +5714,23 @@
     (property "Value" "1k" (at 147.828 105.41 0)
       (effects (font (size 1.016 1.016) bold) (justify left bottom))
     )
-    (property "Footprint" "Resistor_SMD:R_0402_1005Metric" (at 151.13 104.902 90)
+    (property "Footprint" "Resistor_SMD:R_0201_0603Metric"
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Datasheet" "~" (at 151.13 106.68 0)
+    (property "Datasheet" "~"
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "MFR" "0402WGF1001TCE" (at 151.13 106.68 0)
-      (effects (font (size 1.27 1.27)) hide)
+    (property "MFR" "RC0201FR-071KL"
+      (effects (font (size 1.524 1.524)) hide)
     )
-    (property "LCSC" "C11702" (at 151.13 106.68 0)
-      (effects (font (size 1.27 1.27)) hide)
+    (property "LCSC" "C138165"
+      (effects (font (size 1.524 1.524)) hide)
     )
-    (property "Description" "62.5mW Thick Film Resistors ±100ppm/℃ ±1% 1kΩ 0402  Chip Resistor - Surface Mount ROHS" (at 151.13 106.68 0)
-      (effects (font (size 1.27 1.27)) hide)
+    (property "Description" "50mW Thick Film Resistors ±1% ±200ppm/℃ 1kΩ 0201  Chip Resistor - Surface Mount ROHS"
+      (effects (font (size 1.524 1.524)) hide)
     )
-    (property "URL" "https://jlcpcb.com/partdetail/12256-0402WGF1001TCE/C11702" (at 151.13 106.68 0)
-      (effects (font (size 1.27 1.27)) hide)
+    (property "URL" "https://jlcpcb.com/partdetail/Yageo-RC0201FR071KL/C138165"
+      (effects (font (size 1.524 1.524)) hide)
     )
     (pin "1" (uuid 86216be5-e7e4-445e-9a27-ab3c736e9a2a))
     (pin "2" (uuid 33a09d18-0704-444b-94e4-191115414321))
@@ -5829,23 +5829,23 @@
     (property "Value" "499" (at 157.988 97.79 0)
       (effects (font (size 1.016 1.016) bold) (justify left bottom))
     )
-    (property "Footprint" "Resistor_SMD:R_0402_1005Metric" (at 161.29 97.282 90)
+    (property "Footprint" "Resistor_SMD:R_0201_0603Metric"
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Datasheet" "~" (at 161.29 99.06 0)
+    (property "Datasheet" "~"
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "MFR" "0402WGF4990TCE" (at 161.29 99.06 0)
-      (effects (font (size 1.27 1.27)) hide)
+    (property "MFR" "RTT014990FTH"
+      (effects (font (size 1.524 1.524)) hide)
     )
-    (property "LCSC" "C4125" (at 161.29 99.06 0)
-      (effects (font (size 1.27 1.27)) hide)
+    (property "LCSC" "C166172"
+      (effects (font (size 1.524 1.524)) hide)
     )
-    (property "Description" "62.5mW Thick Film Resistors ±100ppm/℃ ±1% 499Ω 0402  Chip Resistor - Surface Mount ROHS" (at 161.29 99.06 0)
-      (effects (font (size 1.27 1.27)) hide)
+    (property "Description" "50mW Thick Film Resistors ±1% ±200ppm/℃ 499Ω 0201  Chip Resistor - Surface Mount ROHS"
+      (effects (font (size 1.524 1.524)) hide)
     )
-    (property "URL" "https://jlcpcb.com/partdetail/4532-0402WGF4990TCE/C4125" (at 161.29 99.06 0)
-      (effects (font (size 1.27 1.27)) hide)
+    (property "URL" "https://jlcpcb.com/partdetail/Ralec-RTT014990FTH/C166172"
+      (effects (font (size 1.524 1.524)) hide)
     )
     (pin "1" (uuid 65d6c623-f936-4abb-82d4-38580f522a51))
     (pin "2" (uuid d775b363-3366-44c2-89c4-f5fbfba197b3))
@@ -5944,23 +5944,23 @@
     (property "Value" "499" (at 157.988 59.69 0)
       (effects (font (size 1.016 1.016) bold) (justify left bottom))
     )
-    (property "Footprint" "Resistor_SMD:R_0402_1005Metric" (at 161.29 59.182 90)
+    (property "Footprint" "Resistor_SMD:R_0201_0603Metric"
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Datasheet" "~" (at 161.29 60.96 0)
+    (property "Datasheet" "~"
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "MFR" "0402WGF4990TCE" (at 161.29 60.96 0)
-      (effects (font (size 1.27 1.27)) hide)
+    (property "MFR" "RTT014990FTH"
+      (effects (font (size 1.524 1.524)) hide)
     )
-    (property "LCSC" "C4125" (at 161.29 60.96 0)
-      (effects (font (size 1.27 1.27)) hide)
+    (property "LCSC" "C166172"
+      (effects (font (size 1.524 1.524)) hide)
     )
-    (property "Description" "62.5mW Thick Film Resistors ±100ppm/℃ ±1% 499Ω 0402  Chip Resistor - Surface Mount ROHS" (at 161.29 60.96 0)
-      (effects (font (size 1.27 1.27)) hide)
+    (property "Description" "50mW Thick Film Resistors ±1% ±200ppm/℃ 499Ω 0201  Chip Resistor - Surface Mount ROHS"
+      (effects (font (size 1.524 1.524)) hide)
     )
-    (property "URL" "https://jlcpcb.com/partdetail/4532-0402WGF4990TCE/C4125" (at 161.29 60.96 0)
-      (effects (font (size 1.27 1.27)) hide)
+    (property "URL" "https://jlcpcb.com/partdetail/Ralec-RTT014990FTH/C166172"
+      (effects (font (size 1.524 1.524)) hide)
     )
     (pin "1" (uuid 754e92a9-d2a0-4776-9721-746ab60a03b2))
     (pin "2" (uuid 97dd7350-0dc1-4899-9c02-0cbbb44fe29a))
@@ -6017,23 +6017,23 @@
     (property "Value" "1k" (at 147.828 120.65 0)
       (effects (font (size 1.016 1.016) bold) (justify left bottom))
     )
-    (property "Footprint" "Resistor_SMD:R_0402_1005Metric" (at 151.13 120.142 90)
+    (property "Footprint" "Resistor_SMD:R_0201_0603Metric"
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Datasheet" "~" (at 151.13 121.92 0)
+    (property "Datasheet" "~"
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "MFR" "0402WGF1001TCE" (at 151.13 121.92 0)
-      (effects (font (size 1.27 1.27)) hide)
+    (property "MFR" "RC0201FR-071KL"
+      (effects (font (size 1.524 1.524)) hide)
     )
-    (property "LCSC" "C11702" (at 151.13 121.92 0)
-      (effects (font (size 1.27 1.27)) hide)
+    (property "LCSC" "C138165"
+      (effects (font (size 1.524 1.524)) hide)
     )
-    (property "Description" "62.5mW Thick Film Resistors ±100ppm/℃ ±1% 1kΩ 0402  Chip Resistor - Surface Mount ROHS" (at 151.13 121.92 0)
-      (effects (font (size 1.27 1.27)) hide)
+    (property "Description" "50mW Thick Film Resistors ±1% ±200ppm/℃ 1kΩ 0201  Chip Resistor - Surface Mount ROHS"
+      (effects (font (size 1.524 1.524)) hide)
     )
-    (property "URL" "https://jlcpcb.com/partdetail/12256-0402WGF1001TCE/C11702" (at 151.13 121.92 0)
-      (effects (font (size 1.27 1.27)) hide)
+    (property "URL" "https://jlcpcb.com/partdetail/Yageo-RC0201FR071KL/C138165"
+      (effects (font (size 1.524 1.524)) hide)
     )
     (pin "1" (uuid a3ef2110-e73b-469b-ae07-7be928b6fb01))
     (pin "2" (uuid 8dba02b1-b599-44bf-9f96-59f382650915))
@@ -6090,23 +6090,23 @@
     (property "Value" "1k" (at 147.828 64.77 0)
       (effects (font (size 1.016 1.016) bold) (justify left bottom))
     )
-    (property "Footprint" "Resistor_SMD:R_0402_1005Metric" (at 151.13 64.262 90)
+    (property "Footprint" "Resistor_SMD:R_0201_0603Metric"
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Datasheet" "~" (at 151.13 66.04 0)
+    (property "Datasheet" "~"
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "MFR" "0402WGF1001TCE" (at 151.13 66.04 0)
-      (effects (font (size 1.27 1.27)) hide)
+    (property "MFR" "RC0201FR-071KL"
+      (effects (font (size 1.524 1.524)) hide)
     )
-    (property "LCSC" "C11702" (at 151.13 66.04 0)
-      (effects (font (size 1.27 1.27)) hide)
+    (property "LCSC" "C138165"
+      (effects (font (size 1.524 1.524)) hide)
     )
-    (property "Description" "62.5mW Thick Film Resistors ±100ppm/℃ ±1% 1kΩ 0402  Chip Resistor - Surface Mount ROHS" (at 151.13 66.04 0)
-      (effects (font (size 1.27 1.27)) hide)
+    (property "Description" "50mW Thick Film Resistors ±1% ±200ppm/℃ 1kΩ 0201  Chip Resistor - Surface Mount ROHS"
+      (effects (font (size 1.524 1.524)) hide)
     )
-    (property "URL" "https://jlcpcb.com/partdetail/12256-0402WGF1001TCE/C11702" (at 151.13 66.04 0)
-      (effects (font (size 1.27 1.27)) hide)
+    (property "URL" "https://jlcpcb.com/partdetail/Yageo-RC0201FR071KL/C138165"
+      (effects (font (size 1.524 1.524)) hide)
     )
     (pin "1" (uuid ce6ba06c-4213-44d4-b41d-9bdf9c7c0097))
     (pin "2" (uuid 83aad9ea-c2b8-4613-93c3-a3c3bc1b7113))
@@ -6257,23 +6257,23 @@
     (property "Value" "499" (at 157.988 62.23 0)
       (effects (font (size 1.016 1.016) bold) (justify left bottom))
     )
-    (property "Footprint" "Resistor_SMD:R_0402_1005Metric" (at 161.29 61.722 90)
+    (property "Footprint" "Resistor_SMD:R_0201_0603Metric"
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Datasheet" "~" (at 161.29 63.5 0)
+    (property "Datasheet" "~"
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "MFR" "0402WGF4990TCE" (at 161.29 63.5 0)
-      (effects (font (size 1.27 1.27)) hide)
+    (property "MFR" "RTT014990FTH"
+      (effects (font (size 1.524 1.524)) hide)
     )
-    (property "LCSC" "C4125" (at 161.29 63.5 0)
-      (effects (font (size 1.27 1.27)) hide)
+    (property "LCSC" "C166172"
+      (effects (font (size 1.524 1.524)) hide)
     )
-    (property "Description" "62.5mW Thick Film Resistors ±100ppm/℃ ±1% 499Ω 0402  Chip Resistor - Surface Mount ROHS" (at 161.29 63.5 0)
-      (effects (font (size 1.27 1.27)) hide)
+    (property "Description" "50mW Thick Film Resistors ±1% ±200ppm/℃ 499Ω 0201  Chip Resistor - Surface Mount ROHS"
+      (effects (font (size 1.524 1.524)) hide)
     )
-    (property "URL" "https://jlcpcb.com/partdetail/4532-0402WGF4990TCE/C4125" (at 161.29 63.5 0)
-      (effects (font (size 1.27 1.27)) hide)
+    (property "URL" "https://jlcpcb.com/partdetail/Ralec-RTT014990FTH/C166172"
+      (effects (font (size 1.524 1.524)) hide)
     )
     (pin "1" (uuid c976b067-7c87-4ed3-adc1-f3f459396542))
     (pin "2" (uuid 954b2343-9ca8-44e7-b1a5-896106d05e38))
@@ -6330,23 +6330,23 @@
     (property "Value" "1k" (at 147.828 57.15 0)
       (effects (font (size 1.016 1.016) bold) (justify left bottom))
     )
-    (property "Footprint" "Resistor_SMD:R_0402_1005Metric" (at 151.13 56.642 90)
+    (property "Footprint" "Resistor_SMD:R_0201_0603Metric"
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Datasheet" "~" (at 151.13 58.42 0)
+    (property "Datasheet" "~"
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "MFR" "0402WGF1001TCE" (at 151.13 58.42 0)
-      (effects (font (size 1.27 1.27)) hide)
+    (property "MFR" "RC0201FR-071KL"
+      (effects (font (size 1.524 1.524)) hide)
     )
-    (property "LCSC" "C11702" (at 151.13 58.42 0)
-      (effects (font (size 1.27 1.27)) hide)
+    (property "LCSC" "C138165"
+      (effects (font (size 1.524 1.524)) hide)
     )
-    (property "Description" "62.5mW Thick Film Resistors ±100ppm/℃ ±1% 1kΩ 0402  Chip Resistor - Surface Mount ROHS" (at 151.13 58.42 0)
-      (effects (font (size 1.27 1.27)) hide)
+    (property "Description" "50mW Thick Film Resistors ±1% ±200ppm/℃ 1kΩ 0201  Chip Resistor - Surface Mount ROHS"
+      (effects (font (size 1.524 1.524)) hide)
     )
-    (property "URL" "https://jlcpcb.com/partdetail/12256-0402WGF1001TCE/C11702" (at 151.13 58.42 0)
-      (effects (font (size 1.27 1.27)) hide)
+    (property "URL" "https://jlcpcb.com/partdetail/Yageo-RC0201FR071KL/C138165"
+      (effects (font (size 1.524 1.524)) hide)
     )
     (pin "1" (uuid d7be00e2-57dc-4511-bf82-311125204563))
     (pin "2" (uuid c1162a4d-c08f-4282-93b8-ecd0b52c1588))
@@ -6378,23 +6378,23 @@
     (property "Value" "1k" (at 147.828 87.63 0)
       (effects (font (size 1.016 1.016) bold) (justify left bottom))
     )
-    (property "Footprint" "Resistor_SMD:R_0402_1005Metric" (at 151.13 87.122 90)
+    (property "Footprint" "Resistor_SMD:R_0201_0603Metric"
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Datasheet" "~" (at 151.13 88.9 0)
+    (property "Datasheet" "~"
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "MFR" "0402WGF1001TCE" (at 151.13 88.9 0)
-      (effects (font (size 1.27 1.27)) hide)
+    (property "MFR" "RC0201FR-071KL"
+      (effects (font (size 1.524 1.524)) hide)
     )
-    (property "LCSC" "C11702" (at 151.13 88.9 0)
-      (effects (font (size 1.27 1.27)) hide)
+    (property "LCSC" "C138165"
+      (effects (font (size 1.524 1.524)) hide)
     )
-    (property "Description" "62.5mW Thick Film Resistors ±100ppm/℃ ±1% 1kΩ 0402  Chip Resistor - Surface Mount ROHS" (at 151.13 88.9 0)
-      (effects (font (size 1.27 1.27)) hide)
+    (property "Description" "50mW Thick Film Resistors ±1% ±200ppm/℃ 1kΩ 0201  Chip Resistor - Surface Mount ROHS"
+      (effects (font (size 1.524 1.524)) hide)
     )
-    (property "URL" "https://jlcpcb.com/partdetail/12256-0402WGF1001TCE/C11702" (at 151.13 88.9 0)
-      (effects (font (size 1.27 1.27)) hide)
+    (property "URL" "https://jlcpcb.com/partdetail/Yageo-RC0201FR071KL/C138165"
+      (effects (font (size 1.524 1.524)) hide)
     )
     (pin "1" (uuid fedc631e-33ab-4de8-84ca-89d1d8e9c77e))
     (pin "2" (uuid d3be86fb-f74c-4710-bfb7-600fb05915a1))
@@ -6710,23 +6710,23 @@
     (property "Value" "1k" (at 147.828 67.31 0)
       (effects (font (size 1.016 1.016) bold) (justify left bottom))
     )
-    (property "Footprint" "Resistor_SMD:R_0402_1005Metric" (at 151.13 66.802 90)
+    (property "Footprint" "Resistor_SMD:R_0201_0603Metric"
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Datasheet" "~" (at 151.13 68.58 0)
+    (property "Datasheet" "~"
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "MFR" "0402WGF1001TCE" (at 151.13 68.58 0)
-      (effects (font (size 1.27 1.27)) hide)
+    (property "MFR" "RC0201FR-071KL"
+      (effects (font (size 1.524 1.524)) hide)
     )
-    (property "LCSC" "C11702" (at 151.13 68.58 0)
-      (effects (font (size 1.27 1.27)) hide)
+    (property "LCSC" "C138165"
+      (effects (font (size 1.524 1.524)) hide)
     )
-    (property "Description" "62.5mW Thick Film Resistors ±100ppm/℃ ±1% 1kΩ 0402  Chip Resistor - Surface Mount ROHS" (at 151.13 68.58 0)
-      (effects (font (size 1.27 1.27)) hide)
+    (property "Description" "50mW Thick Film Resistors ±1% ±200ppm/℃ 1kΩ 0201  Chip Resistor - Surface Mount ROHS"
+      (effects (font (size 1.524 1.524)) hide)
     )
-    (property "URL" "https://jlcpcb.com/partdetail/12256-0402WGF1001TCE/C11702" (at 151.13 68.58 0)
-      (effects (font (size 1.27 1.27)) hide)
+    (property "URL" "https://jlcpcb.com/partdetail/Yageo-RC0201FR071KL/C138165"
+      (effects (font (size 1.524 1.524)) hide)
     )
     (pin "1" (uuid 661e1946-f4e8-4511-b8e1-a66c17f1fca4))
     (pin "2" (uuid 372217fe-c7b0-473a-80e1-d02e7e71e189))
@@ -6758,23 +6758,23 @@
     (property "Value" "499" (at 157.988 95.25 0)
       (effects (font (size 1.016 1.016) bold) (justify left bottom))
     )
-    (property "Footprint" "Resistor_SMD:R_0402_1005Metric" (at 161.29 94.742 90)
+    (property "Footprint" "Resistor_SMD:R_0201_0603Metric"
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Datasheet" "~" (at 161.29 96.52 0)
+    (property "Datasheet" "~"
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "MFR" "0402WGF4990TCE" (at 161.29 96.52 0)
-      (effects (font (size 1.27 1.27)) hide)
+    (property "MFR" "RTT014990FTH"
+      (effects (font (size 1.524 1.524)) hide)
     )
-    (property "LCSC" "C4125" (at 161.29 96.52 0)
-      (effects (font (size 1.27 1.27)) hide)
+    (property "LCSC" "C166172"
+      (effects (font (size 1.524 1.524)) hide)
     )
-    (property "Description" "62.5mW Thick Film Resistors ±100ppm/℃ ±1% 499Ω 0402  Chip Resistor - Surface Mount ROHS" (at 161.29 96.52 0)
-      (effects (font (size 1.27 1.27)) hide)
+    (property "Description" "50mW Thick Film Resistors ±1% ±200ppm/℃ 499Ω 0201  Chip Resistor - Surface Mount ROHS"
+      (effects (font (size 1.524 1.524)) hide)
     )
-    (property "URL" "https://jlcpcb.com/partdetail/4532-0402WGF4990TCE/C4125" (at 161.29 96.52 0)
-      (effects (font (size 1.27 1.27)) hide)
+    (property "URL" "https://jlcpcb.com/partdetail/Ralec-RTT014990FTH/C166172"
+      (effects (font (size 1.524 1.524)) hide)
     )
     (pin "1" (uuid 9b96ce4d-010d-42a6-91e6-7b7cde34688c))
     (pin "2" (uuid ef1ecb81-1709-468b-997b-a321d448b285))
@@ -6806,23 +6806,23 @@
     (property "Value" "499" (at 157.988 64.77 0)
       (effects (font (size 1.016 1.016) bold) (justify left bottom))
     )
-    (property "Footprint" "Resistor_SMD:R_0402_1005Metric" (at 161.29 64.262 90)
+    (property "Footprint" "Resistor_SMD:R_0201_0603Metric"
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Datasheet" "~" (at 161.29 66.04 0)
+    (property "Datasheet" "~"
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "MFR" "0402WGF4990TCE" (at 161.29 66.04 0)
-      (effects (font (size 1.27 1.27)) hide)
+    (property "MFR" "RTT014990FTH"
+      (effects (font (size 1.524 1.524)) hide)
     )
-    (property "LCSC" "C4125" (at 161.29 66.04 0)
-      (effects (font (size 1.27 1.27)) hide)
+    (property "LCSC" "C166172"
+      (effects (font (size 1.524 1.524)) hide)
     )
-    (property "Description" "62.5mW Thick Film Resistors ±100ppm/℃ ±1% 499Ω 0402  Chip Resistor - Surface Mount ROHS" (at 161.29 66.04 0)
-      (effects (font (size 1.27 1.27)) hide)
+    (property "Description" "50mW Thick Film Resistors ±1% ±200ppm/℃ 499Ω 0201  Chip Resistor - Surface Mount ROHS"
+      (effects (font (size 1.524 1.524)) hide)
     )
-    (property "URL" "https://jlcpcb.com/partdetail/4532-0402WGF4990TCE/C4125" (at 161.29 66.04 0)
-      (effects (font (size 1.27 1.27)) hide)
+    (property "URL" "https://jlcpcb.com/partdetail/Ralec-RTT014990FTH/C166172"
+      (effects (font (size 1.524 1.524)) hide)
     )
     (pin "1" (uuid 9fa866dd-ec66-42e6-be88-0c635ae9b2e2))
     (pin "2" (uuid 5219989c-c7b5-48f2-b446-41d1a1ce183a))
@@ -6971,23 +6971,23 @@
     (property "Value" "499" (at 157.988 52.07 0)
       (effects (font (size 1.016 1.016) bold) (justify left bottom))
     )
-    (property "Footprint" "Resistor_SMD:R_0402_1005Metric" (at 161.29 51.562 90)
+    (property "Footprint" "Resistor_SMD:R_0201_0603Metric"
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Datasheet" "~" (at 161.29 53.34 0)
+    (property "Datasheet" "~"
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "MFR" "0402WGF4990TCE" (at 161.29 53.34 0)
-      (effects (font (size 1.27 1.27)) hide)
+    (property "MFR" "RTT014990FTH"
+      (effects (font (size 1.524 1.524)) hide)
     )
-    (property "LCSC" "C4125" (at 161.29 53.34 0)
-      (effects (font (size 1.27 1.27)) hide)
+    (property "LCSC" "C166172"
+      (effects (font (size 1.524 1.524)) hide)
     )
-    (property "Description" "62.5mW Thick Film Resistors ±100ppm/℃ ±1% 499Ω 0402  Chip Resistor - Surface Mount ROHS" (at 161.29 53.34 0)
-      (effects (font (size 1.27 1.27)) hide)
+    (property "Description" "50mW Thick Film Resistors ±1% ±200ppm/℃ 499Ω 0201  Chip Resistor - Surface Mount ROHS"
+      (effects (font (size 1.524 1.524)) hide)
     )
-    (property "URL" "https://jlcpcb.com/partdetail/4532-0402WGF4990TCE/C4125" (at 161.29 53.34 0)
-      (effects (font (size 1.27 1.27)) hide)
+    (property "URL" "https://jlcpcb.com/partdetail/Ralec-RTT014990FTH/C166172"
+      (effects (font (size 1.524 1.524)) hide)
     )
     (pin "1" (uuid 354ae947-babd-4301-83eb-fc0eff38a247))
     (pin "2" (uuid be1806ec-4b62-4192-a86e-5fab36535a84))
@@ -7124,23 +7124,23 @@
     (property "Value" "499" (at 157.988 57.15 0)
       (effects (font (size 1.016 1.016) bold) (justify left bottom))
     )
-    (property "Footprint" "Resistor_SMD:R_0402_1005Metric" (at 161.29 56.642 90)
+    (property "Footprint" "Resistor_SMD:R_0201_0603Metric"
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Datasheet" "~" (at 161.29 58.42 0)
+    (property "Datasheet" "~"
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "MFR" "0402WGF4990TCE" (at 161.29 58.42 0)
-      (effects (font (size 1.27 1.27)) hide)
+    (property "MFR" "RTT014990FTH"
+      (effects (font (size 1.524 1.524)) hide)
     )
-    (property "LCSC" "C4125" (at 161.29 58.42 0)
-      (effects (font (size 1.27 1.27)) hide)
+    (property "LCSC" "C166172"
+      (effects (font (size 1.524 1.524)) hide)
     )
-    (property "Description" "62.5mW Thick Film Resistors ±100ppm/℃ ±1% 499Ω 0402  Chip Resistor - Surface Mount ROHS" (at 161.29 58.42 0)
-      (effects (font (size 1.27 1.27)) hide)
+    (property "Description" "50mW Thick Film Resistors ±1% ±200ppm/℃ 499Ω 0201  Chip Resistor - Surface Mount ROHS"
+      (effects (font (size 1.524 1.524)) hide)
     )
-    (property "URL" "https://jlcpcb.com/partdetail/4532-0402WGF4990TCE/C4125" (at 161.29 58.42 0)
-      (effects (font (size 1.27 1.27)) hide)
+    (property "URL" "https://jlcpcb.com/partdetail/Ralec-RTT014990FTH/C166172"
+      (effects (font (size 1.524 1.524)) hide)
     )
     (pin "1" (uuid 035d9598-f42b-49b8-a920-6ce8f850313d))
     (pin "2" (uuid c7447df2-5639-4ef6-a510-9a756f69e792))
@@ -7172,23 +7172,23 @@
     (property "Value" "499" (at 157.988 54.61 0)
       (effects (font (size 1.016 1.016) bold) (justify left bottom))
     )
-    (property "Footprint" "Resistor_SMD:R_0402_1005Metric" (at 161.29 54.102 90)
+    (property "Footprint" "Resistor_SMD:R_0201_0603Metric"
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Datasheet" "~" (at 161.29 55.88 0)
+    (property "Datasheet" "~"
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "MFR" "0402WGF4990TCE" (at 161.29 55.88 0)
-      (effects (font (size 1.27 1.27)) hide)
+    (property "MFR" "RTT014990FTH"
+      (effects (font (size 1.524 1.524)) hide)
     )
-    (property "LCSC" "C4125" (at 161.29 55.88 0)
-      (effects (font (size 1.27 1.27)) hide)
+    (property "LCSC" "C166172"
+      (effects (font (size 1.524 1.524)) hide)
     )
-    (property "Description" "62.5mW Thick Film Resistors ±100ppm/℃ ±1% 499Ω 0402  Chip Resistor - Surface Mount ROHS" (at 161.29 55.88 0)
-      (effects (font (size 1.27 1.27)) hide)
+    (property "Description" "50mW Thick Film Resistors ±1% ±200ppm/℃ 499Ω 0201  Chip Resistor - Surface Mount ROHS"
+      (effects (font (size 1.524 1.524)) hide)
     )
-    (property "URL" "https://jlcpcb.com/partdetail/4532-0402WGF4990TCE/C4125" (at 161.29 55.88 0)
-      (effects (font (size 1.27 1.27)) hide)
+    (property "URL" "https://jlcpcb.com/partdetail/Ralec-RTT014990FTH/C166172"
+      (effects (font (size 1.524 1.524)) hide)
     )
     (pin "1" (uuid b5f90579-4f94-4977-8fe5-6d5275ce567f))
     (pin "2" (uuid d8345e83-ba51-41d1-8837-2bcc1be6f88b))
@@ -7292,23 +7292,23 @@
     (property "Value" "1k" (at 147.828 80.01 0)
       (effects (font (size 1.016 1.016) bold) (justify left bottom))
     )
-    (property "Footprint" "Resistor_SMD:R_0402_1005Metric" (at 151.13 79.502 90)
+    (property "Footprint" "Resistor_SMD:R_0201_0603Metric"
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Datasheet" "~" (at 151.13 81.28 0)
+    (property "Datasheet" "~"
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "MFR" "0402WGF1001TCE" (at 151.13 81.28 0)
-      (effects (font (size 1.27 1.27)) hide)
+    (property "MFR" "RC0201FR-071KL"
+      (effects (font (size 1.524 1.524)) hide)
     )
-    (property "LCSC" "C11702" (at 151.13 81.28 0)
-      (effects (font (size 1.27 1.27)) hide)
+    (property "LCSC" "C138165"
+      (effects (font (size 1.524 1.524)) hide)
     )
-    (property "Description" "62.5mW Thick Film Resistors ±100ppm/℃ ±1% 1kΩ 0402  Chip Resistor - Surface Mount ROHS" (at 151.13 81.28 0)
-      (effects (font (size 1.27 1.27)) hide)
+    (property "Description" "50mW Thick Film Resistors ±1% ±200ppm/℃ 1kΩ 0201  Chip Resistor - Surface Mount ROHS"
+      (effects (font (size 1.524 1.524)) hide)
     )
-    (property "URL" "https://jlcpcb.com/partdetail/12256-0402WGF1001TCE/C11702" (at 151.13 81.28 0)
-      (effects (font (size 1.27 1.27)) hide)
+    (property "URL" "https://jlcpcb.com/partdetail/Yageo-RC0201FR071KL/C138165"
+      (effects (font (size 1.524 1.524)) hide)
     )
     (pin "1" (uuid 8cea58f3-7955-423e-a3e4-a84ac2c81075))
     (pin "2" (uuid eddeec8f-3667-4e39-be63-c6c1aa57c2e0))
@@ -7582,23 +7582,23 @@
     (property "Value" "1k" (at 147.828 107.95 0)
       (effects (font (size 1.016 1.016) bold) (justify left bottom))
     )
-    (property "Footprint" "Resistor_SMD:R_0402_1005Metric" (at 151.13 107.442 90)
+    (property "Footprint" "Resistor_SMD:R_0201_0603Metric"
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Datasheet" "~" (at 151.13 109.22 0)
+    (property "Datasheet" "~"
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "MFR" "0402WGF1001TCE" (at 151.13 109.22 0)
-      (effects (font (size 1.27 1.27)) hide)
+    (property "MFR" "RC0201FR-071KL"
+      (effects (font (size 1.524 1.524)) hide)
     )
-    (property "LCSC" "C11702" (at 151.13 109.22 0)
-      (effects (font (size 1.27 1.27)) hide)
+    (property "LCSC" "C138165"
+      (effects (font (size 1.524 1.524)) hide)
     )
-    (property "Description" "62.5mW Thick Film Resistors ±100ppm/℃ ±1% 1kΩ 0402  Chip Resistor - Surface Mount ROHS" (at 151.13 109.22 0)
-      (effects (font (size 1.27 1.27)) hide)
+    (property "Description" "50mW Thick Film Resistors ±1% ±200ppm/℃ 1kΩ 0201  Chip Resistor - Surface Mount ROHS"
+      (effects (font (size 1.524 1.524)) hide)
     )
-    (property "URL" "https://jlcpcb.com/partdetail/12256-0402WGF1001TCE/C11702" (at 151.13 109.22 0)
-      (effects (font (size 1.27 1.27)) hide)
+    (property "URL" "https://jlcpcb.com/partdetail/Yageo-RC0201FR071KL/C138165"
+      (effects (font (size 1.524 1.524)) hide)
     )
     (pin "1" (uuid ca4ffabc-33c1-448e-a863-6af530169bd0))
     (pin "2" (uuid f584145e-b0b0-4ffd-af41-257df9899b8a))
@@ -7630,23 +7630,23 @@
     (property "Value" "1k" (at 147.828 77.47 0)
       (effects (font (size 1.016 1.016) bold) (justify left bottom))
     )
-    (property "Footprint" "Resistor_SMD:R_0402_1005Metric" (at 151.13 76.962 90)
+    (property "Footprint" "Resistor_SMD:R_0201_0603Metric"
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Datasheet" "~" (at 151.13 78.74 0)
+    (property "Datasheet" "~"
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "MFR" "0402WGF1001TCE" (at 151.13 78.74 0)
-      (effects (font (size 1.27 1.27)) hide)
+    (property "MFR" "RC0201FR-071KL"
+      (effects (font (size 1.524 1.524)) hide)
     )
-    (property "LCSC" "C11702" (at 151.13 78.74 0)
-      (effects (font (size 1.27 1.27)) hide)
+    (property "LCSC" "C138165"
+      (effects (font (size 1.524 1.524)) hide)
     )
-    (property "Description" "62.5mW Thick Film Resistors ±100ppm/℃ ±1% 1kΩ 0402  Chip Resistor - Surface Mount ROHS" (at 151.13 78.74 0)
-      (effects (font (size 1.27 1.27)) hide)
+    (property "Description" "50mW Thick Film Resistors ±1% ±200ppm/℃ 1kΩ 0201  Chip Resistor - Surface Mount ROHS"
+      (effects (font (size 1.524 1.524)) hide)
     )
-    (property "URL" "https://jlcpcb.com/partdetail/12256-0402WGF1001TCE/C11702" (at 151.13 78.74 0)
-      (effects (font (size 1.27 1.27)) hide)
+    (property "URL" "https://jlcpcb.com/partdetail/Yageo-RC0201FR071KL/C138165"
+      (effects (font (size 1.524 1.524)) hide)
     )
     (pin "1" (uuid e24d8637-00f5-41b0-9a4b-c51dbe8cf90f))
     (pin "2" (uuid 1e85909a-07b8-4672-a0b4-e2a30d37d492))
@@ -7800,23 +7800,23 @@
     (property "Value" "499" (at 157.988 118.11 0)
       (effects (font (size 1.016 1.016) bold) (justify left bottom))
     )
-    (property "Footprint" "Resistor_SMD:R_0402_1005Metric" (at 161.29 117.602 90)
+    (property "Footprint" "Resistor_SMD:R_0201_0603Metric"
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Datasheet" "~" (at 161.29 119.38 0)
+    (property "Datasheet" "~"
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "MFR" "0402WGF4990TCE" (at 161.29 119.38 0)
-      (effects (font (size 1.27 1.27)) hide)
+    (property "MFR" "RTT014990FTH"
+      (effects (font (size 1.524 1.524)) hide)
     )
-    (property "LCSC" "C4125" (at 161.29 119.38 0)
-      (effects (font (size 1.27 1.27)) hide)
+    (property "LCSC" "C166172"
+      (effects (font (size 1.524 1.524)) hide)
     )
-    (property "Description" "62.5mW Thick Film Resistors ±100ppm/℃ ±1% 499Ω 0402  Chip Resistor - Surface Mount ROHS" (at 161.29 119.38 0)
-      (effects (font (size 1.27 1.27)) hide)
+    (property "Description" "50mW Thick Film Resistors ±1% ±200ppm/℃ 499Ω 0201  Chip Resistor - Surface Mount ROHS"
+      (effects (font (size 1.524 1.524)) hide)
     )
-    (property "URL" "https://jlcpcb.com/partdetail/4532-0402WGF4990TCE/C4125" (at 161.29 119.38 0)
-      (effects (font (size 1.27 1.27)) hide)
+    (property "URL" "https://jlcpcb.com/partdetail/Ralec-RTT014990FTH/C166172"
+      (effects (font (size 1.524 1.524)) hide)
     )
     (pin "1" (uuid c1169119-b82e-4efb-baf3-f217bdc35882))
     (pin "2" (uuid 2354b861-1eb7-432c-99a7-902f9c94fb4c))
@@ -7848,23 +7848,23 @@
     (property "Value" "499" (at 157.988 82.55 0)
       (effects (font (size 1.016 1.016) bold) (justify left bottom))
     )
-    (property "Footprint" "Resistor_SMD:R_0402_1005Metric" (at 161.29 82.042 90)
+    (property "Footprint" "Resistor_SMD:R_0201_0603Metric"
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Datasheet" "~" (at 161.29 83.82 0)
+    (property "Datasheet" "~"
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "MFR" "0402WGF4990TCE" (at 161.29 83.82 0)
-      (effects (font (size 1.27 1.27)) hide)
+    (property "MFR" "RTT014990FTH"
+      (effects (font (size 1.524 1.524)) hide)
     )
-    (property "LCSC" "C4125" (at 161.29 83.82 0)
-      (effects (font (size 1.27 1.27)) hide)
+    (property "LCSC" "C166172"
+      (effects (font (size 1.524 1.524)) hide)
     )
-    (property "Description" "62.5mW Thick Film Resistors ±100ppm/℃ ±1% 499Ω 0402  Chip Resistor - Surface Mount ROHS" (at 161.29 83.82 0)
-      (effects (font (size 1.27 1.27)) hide)
+    (property "Description" "50mW Thick Film Resistors ±1% ±200ppm/℃ 499Ω 0201  Chip Resistor - Surface Mount ROHS"
+      (effects (font (size 1.524 1.524)) hide)
     )
-    (property "URL" "https://jlcpcb.com/partdetail/4532-0402WGF4990TCE/C4125" (at 161.29 83.82 0)
-      (effects (font (size 1.27 1.27)) hide)
+    (property "URL" "https://jlcpcb.com/partdetail/Ralec-RTT014990FTH/C166172"
+      (effects (font (size 1.524 1.524)) hide)
     )
     (pin "1" (uuid 10a4bfef-94cd-4b2e-911e-c3b216d7ce7f))
     (pin "2" (uuid 89778b74-a9eb-43d2-ac23-29676584a220))
@@ -7896,23 +7896,23 @@
     (property "Value" "1k" (at 147.828 110.49 0)
       (effects (font (size 1.016 1.016) bold) (justify left bottom))
     )
-    (property "Footprint" "Resistor_SMD:R_0402_1005Metric" (at 151.13 109.982 90)
+    (property "Footprint" "Resistor_SMD:R_0201_0603Metric"
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Datasheet" "~" (at 151.13 111.76 0)
+    (property "Datasheet" "~"
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "MFR" "0402WGF1001TCE" (at 151.13 111.76 0)
-      (effects (font (size 1.27 1.27)) hide)
+    (property "MFR" "RC0201FR-071KL"
+      (effects (font (size 1.524 1.524)) hide)
     )
-    (property "LCSC" "C11702" (at 151.13 111.76 0)
-      (effects (font (size 1.27 1.27)) hide)
+    (property "LCSC" "C138165"
+      (effects (font (size 1.524 1.524)) hide)
     )
-    (property "Description" "62.5mW Thick Film Resistors ±100ppm/℃ ±1% 1kΩ 0402  Chip Resistor - Surface Mount ROHS" (at 151.13 111.76 0)
-      (effects (font (size 1.27 1.27)) hide)
+    (property "Description" "50mW Thick Film Resistors ±1% ±200ppm/℃ 1kΩ 0201  Chip Resistor - Surface Mount ROHS"
+      (effects (font (size 1.524 1.524)) hide)
     )
-    (property "URL" "https://jlcpcb.com/partdetail/12256-0402WGF1001TCE/C11702" (at 151.13 111.76 0)
-      (effects (font (size 1.27 1.27)) hide)
+    (property "URL" "https://jlcpcb.com/partdetail/Yageo-RC0201FR071KL/C138165"
+      (effects (font (size 1.524 1.524)) hide)
     )
     (pin "1" (uuid 3d872a65-de2b-4fca-895d-676a6773d31f))
     (pin "2" (uuid 9e340483-37eb-4ad8-86a5-529223b5c190))
@@ -7974,23 +7974,23 @@
     (property "Value" "499" (at 157.988 80.01 0)
       (effects (font (size 1.016 1.016) bold) (justify left bottom))
     )
-    (property "Footprint" "Resistor_SMD:R_0402_1005Metric" (at 161.29 79.502 90)
+    (property "Footprint" "Resistor_SMD:R_0201_0603Metric"
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Datasheet" "~" (at 161.29 81.28 0)
+    (property "Datasheet" "~"
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "MFR" "0402WGF4990TCE" (at 161.29 81.28 0)
-      (effects (font (size 1.27 1.27)) hide)
+    (property "MFR" "RTT014990FTH"
+      (effects (font (size 1.524 1.524)) hide)
     )
-    (property "LCSC" "C4125" (at 161.29 81.28 0)
-      (effects (font (size 1.27 1.27)) hide)
+    (property "LCSC" "C166172"
+      (effects (font (size 1.524 1.524)) hide)
     )
-    (property "Description" "62.5mW Thick Film Resistors ±100ppm/℃ ±1% 499Ω 0402  Chip Resistor - Surface Mount ROHS" (at 161.29 81.28 0)
-      (effects (font (size 1.27 1.27)) hide)
+    (property "Description" "50mW Thick Film Resistors ±1% ±200ppm/℃ 499Ω 0201  Chip Resistor - Surface Mount ROHS"
+      (effects (font (size 1.524 1.524)) hide)
     )
-    (property "URL" "https://jlcpcb.com/partdetail/4532-0402WGF4990TCE/C4125" (at 161.29 81.28 0)
-      (effects (font (size 1.27 1.27)) hide)
+    (property "URL" "https://jlcpcb.com/partdetail/Ralec-RTT014990FTH/C166172"
+      (effects (font (size 1.524 1.524)) hide)
     )
     (pin "1" (uuid 5f6f4f09-6948-4ce8-9ec2-9375f95bd471))
     (pin "2" (uuid 5cabaa66-a248-433e-a7f6-60b8ce50d28b))
@@ -8022,23 +8022,23 @@
     (property "Value" "1k" (at 147.828 54.61 0)
       (effects (font (size 1.016 1.016) bold) (justify left bottom))
     )
-    (property "Footprint" "Resistor_SMD:R_0402_1005Metric" (at 151.13 54.102 90)
+    (property "Footprint" "Resistor_SMD:R_0201_0603Metric"
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Datasheet" "~" (at 151.13 55.88 0)
+    (property "Datasheet" "~"
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "MFR" "0402WGF1001TCE" (at 151.13 55.88 0)
-      (effects (font (size 1.27 1.27)) hide)
+    (property "MFR" "RC0201FR-071KL"
+      (effects (font (size 1.524 1.524)) hide)
     )
-    (property "LCSC" "C11702" (at 151.13 55.88 0)
-      (effects (font (size 1.27 1.27)) hide)
+    (property "LCSC" "C138165"
+      (effects (font (size 1.524 1.524)) hide)
     )
-    (property "Description" "62.5mW Thick Film Resistors ±100ppm/℃ ±1% 1kΩ 0402  Chip Resistor - Surface Mount ROHS" (at 151.13 55.88 0)
-      (effects (font (size 1.27 1.27)) hide)
+    (property "Description" "50mW Thick Film Resistors ±1% ±200ppm/℃ 1kΩ 0201  Chip Resistor - Surface Mount ROHS"
+      (effects (font (size 1.524 1.524)) hide)
     )
-    (property "URL" "https://jlcpcb.com/partdetail/12256-0402WGF1001TCE/C11702" (at 151.13 55.88 0)
-      (effects (font (size 1.27 1.27)) hide)
+    (property "URL" "https://jlcpcb.com/partdetail/Yageo-RC0201FR071KL/C138165"
+      (effects (font (size 1.524 1.524)) hide)
     )
     (pin "1" (uuid 3b5b6846-47f5-4048-85f6-f97a7ce9f797))
     (pin "2" (uuid bb1f34ce-0444-493b-bd4f-f8bdd014aa84))
@@ -8095,23 +8095,23 @@
     (property "Value" "1k" (at 147.828 102.87 0)
       (effects (font (size 1.016 1.016) bold) (justify left bottom))
     )
-    (property "Footprint" "Resistor_SMD:R_0402_1005Metric" (at 151.13 102.362 90)
+    (property "Footprint" "Resistor_SMD:R_0201_0603Metric"
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Datasheet" "~" (at 151.13 104.14 0)
+    (property "Datasheet" "~"
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "MFR" "0402WGF1001TCE" (at 151.13 104.14 0)
-      (effects (font (size 1.27 1.27)) hide)
+    (property "MFR" "RC0201FR-071KL"
+      (effects (font (size 1.524 1.524)) hide)
     )
-    (property "LCSC" "C11702" (at 151.13 104.14 0)
-      (effects (font (size 1.27 1.27)) hide)
+    (property "LCSC" "C138165"
+      (effects (font (size 1.524 1.524)) hide)
     )
-    (property "Description" "62.5mW Thick Film Resistors ±100ppm/℃ ±1% 1kΩ 0402  Chip Resistor - Surface Mount ROHS" (at 151.13 104.14 0)
-      (effects (font (size 1.27 1.27)) hide)
+    (property "Description" "50mW Thick Film Resistors ±1% ±200ppm/℃ 1kΩ 0201  Chip Resistor - Surface Mount ROHS"
+      (effects (font (size 1.524 1.524)) hide)
     )
-    (property "URL" "https://jlcpcb.com/partdetail/12256-0402WGF1001TCE/C11702" (at 151.13 104.14 0)
-      (effects (font (size 1.27 1.27)) hide)
+    (property "URL" "https://jlcpcb.com/partdetail/Yageo-RC0201FR071KL/C138165"
+      (effects (font (size 1.524 1.524)) hide)
     )
     (pin "1" (uuid c35388f0-9057-4123-ad4f-a7b116ff4056))
     (pin "2" (uuid ff33eb27-7fd1-4c86-a0d6-1b526f98e75d))
